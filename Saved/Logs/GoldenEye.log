@@ -3153,3 +3153,510 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.18-22.18.16:997][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fotos/james_bonds_Mat]
 [2019.06.18-22.18.17:019][850]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/james_bonds_Mat_Auto7F598033B430EC702F95CF2A3C5FCF9A2.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/james_bonds_Mat_Auto7.uasset'
 [2019.06.18-22.18.17:028][850]LogFileHelpers: Auto-saving content packages took 0.080
+[2019.06.18-22.18.26:221][876]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (22.549 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.26:233][877]LogHttp: Warning: 000001B31DEAC900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.06.18-22.18.26:233][877]LogHttp: Warning: 000001B31DEAC900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b299167f70 [can pipeline])
+[2019.06.18-22.18.26:233][877]LogHttp: Warning: 000001B31DEAC900: libcurl info message cache 1 (Re-using existing connection! (#49) with host datarouter.ol.epicgames.com)
+[2019.06.18-22.18.26:233][877]LogHttp: Warning: 000001B31DEAC900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.214.66.93) port 443 (#49))
+[2019.06.18-22.18.26:233][877]LogHttp: Warning: 000001B31DEAC900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.06.18-22.18.26:233][877]LogHttp: Warning: 000001B31DEAC900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.06.18-22.18.26:233][877]LogHttp: Warning: 000001B31DEAC900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.06.18-22.18.26:233][877]LogHttp: Warning: 000001B31DEAC900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.06.18-22.18.26:233][877]LogHttp: Warning: 000001B31DEAC900: libcurl info message cache 7 (Closing connection 49)
+[2019.06.18-22.18.26:233][877]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA9646280-48BC-C89C-6735-FFA63BE0D606%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=9808c9f149d4e050055eb6b999bf2dc0%7C93ed22d7709144d78690c370b832a6e5%7C586810d2-1be1-41f3-91da-1b6bccd5b664&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.18-22.19.15:947][ 24]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.19.15:956][ 24]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.21.57:400][562]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.18-22.21.57:416][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.21.57:416][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-22.21.57:416][562]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 4:21:57 PM)
+[2019.06.18-22.21.57:417][562]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-22.21.57:443][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025656s)
+[2019.06.18-22.21.57:444][562]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-22.21.57:445][562]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2019.06.18-22.21.57:445][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.027247s)
+[2019.06.18-22.21.57:484][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.06.18-22.21.57:504][562]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-22.21.57:548][562]LogInit: FAudioDevice initialized.
+[2019.06.18-22.21.57:558][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-22.21.57:592][562]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-22.21.57:621][562]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 0) at 2019.06.18-19.21.57
+[2019.06.18-22.21.57:629][562]LogWorld: Bringing up level for play took: 0.034328
+[2019.06.18-22.21.57:658][562]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro 0.375
+[2019.06.18-22.21.57:659][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.22.28:472][277]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.22.28:631][291]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.22.28:777][303]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.22.28:962][318]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.22.37:083][ 22]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.22.37:202][ 31]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.22.37:354][ 43]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.22.37:508][ 57]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.22.38:689][155]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.22.38:833][168]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.22.38:993][181]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.22.39:589][230]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.22.47:171][915]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-22.22.47:171][915]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-22.22.49:667][140]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-22.22.52:389][381]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-22.22.52:528][392]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-22.22.52:675][404]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-22.22.52:688][405]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.22.52:702][406]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.22.52:831][417]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.22.52:832][417]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-22.22.52:967][430]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.23.01:664][204]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.23.01:932][227]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.23.02:050][237]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.23.02:334][261]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.23.09:618][930]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-22.23.09:758][942]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-22.23.09:910][956]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-22.23.10:064][970]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-22.23.10:916][ 46]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-22.23.11:050][ 58]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-22.23.11:196][ 71]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-22.23.11:331][ 83]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-22.23.12:270][168]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-22.23.12:394][179]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-22.23.12:537][192]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-22.23.12:668][204]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-22.23.15:891][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-22.23.15:891][493]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-22.23.18:387][718]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-22.23.19:127][785]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.23.19:138][786]LogBlueprintUserMessages: [SimpleAI14_41] Hit
+[2019.06.18-22.23.19:182][790]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-22.23.19:261][797]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.23.19:274][798]LogBlueprintUserMessages: [SimpleAI14_41] Hit
+[2019.06.18-22.23.19:308][801]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-22.23.19:394][808]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.23.19:406][809]LogBlueprintUserMessages: [SimpleAI14_41] Hit
+[2019.06.18-22.23.19:443][812]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-22.23.19:554][821]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.23.19:556][821]LogBlueprintUserMessages: [SimpleAI14_41] Hit
+[2019.06.18-22.23.19:590][824]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-22.23.32:753][ 80]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-22.23.32:897][ 92]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-22.23.33:055][108]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-22.23.34:068][200]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.23.34:195][211]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.23.34:329][223]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.23.34:453][234]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.23.36:494][424]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-22.23.37:204][492]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-22.23.39:697][719]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-22.24.01:474][904]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-22.24.01:597][916]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-22.24.01:737][929]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-22.24.01:882][943]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-22.24.02:933][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.24.02:934][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-22.24.02:949][ 39]LogSlate: Window 'GoldenEye Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.18-22.24.02:989][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-22.24.02:989][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.24.03:033][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.06.18-22.24.03:084][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2019.06.18-22.25.31:596][488]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.25.31:603][488]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.25.40:847][531]LogSlate: Window 'Sequence Recorder' being destroyed
+[2019.06.18-22.25.40:854][531]LogSlate: Window 'Sequence Recorder' being destroyed
+[2019.06.18-22.29.13:616][701]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.18-22.29.13:636][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.29.13:637][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-22.29.13:637][701]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 4:29:13 PM)
+[2019.06.18-22.29.13:638][701]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-22.29.13:665][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026846s)
+[2019.06.18-22.29.13:666][701]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-22.29.13:666][701]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2019.06.18-22.29.13:666][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.028438s)
+[2019.06.18-22.29.13:705][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.06.18-22.29.13:722][701]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-22.29.13:770][701]LogInit: FAudioDevice initialized.
+[2019.06.18-22.29.13:783][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-22.29.13:824][701]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-22.29.13:868][701]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 0) at 2019.06.18-19.29.13
+[2019.06.18-22.29.13:876][701]LogWorld: Bringing up level for play took: 0.049874
+[2019.06.18-22.29.13:899][701]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro 0.614
+[2019.06.18-22.29.13:899][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.29.25:214][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.29.25:215][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-22.29.25:231][683]LogSlate: Window 'GoldenEye Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.18-22.29.25:272][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-22.29.25:272][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.29.25:326][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.06.18-22.29.25:344][684]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2019.06.18-22.29.28:036][981]MapCheck: New page: Map Check
+[2019.06.18-22.29.28:054][981]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.18-22.29.28:054][981]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.18-22.29.28:211][981]LightingResults: New page: Lighting Build - Jun 18, 2019, 4:29:28 PM
+[2019.06.18-22.29.28:220][981]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.18-22.29.28:230][981]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.18-22.29.28:231][981]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.18-22.29.28:232][981]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.18-22.29.28:232][981]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8760
+[2019.06.18-22.29.32:765][981]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.18-22.29.32:767][981]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.18-22.29.32:767][981]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.18-22.29.32:767][981]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.18-22.29.32:768][981]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.18-22.29.32:768][981]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.18-22.29.32:974][981]LogEditorBuildUtils: Build time 0:04
+[2019.06.18-22.29.33:002][981]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer _Default_Material, compiling. 
+[2019.06.18-22.29.33:019][981]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer _Default_Material, compiling. 
+[2019.06.18-22.29.33:077][982]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WhatsApp_Image_2017-10-03_at_16_45_10_Mat, compiling. 
+[2019.06.18-22.29.33:092][982]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WhatsApp_Image_2017-10-03_at_16_45_10_Mat, compiling. 
+[2019.06.18-22.29.33:121][983]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FOTO_Mat, compiling. 
+[2019.06.18-22.29.33:133][983]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FOTO_Mat, compiling. 
+[2019.06.18-22.29.33:165][984]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer james_bonds_Mat, compiling. 
+[2019.06.18-22.29.33:178][984]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer james_bonds_Mat, compiling. 
+[2019.06.18-22.29.36:115][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.06.18-22.30.34:256][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.06.18-22.30.35:074][932]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_Auto80586C8C04ED8905E5F9577A4AFEADFF5.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Banheiro_Auto8.umap'
+[2019.06.18-22.30.35:079][932]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GoldenMap/Banheiro' took 0.866
+[2019.06.18-22.30.35:079][932]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.866
+[2019.06.18-22.30.43:963][684]LightingResults: Warning: Tub_Completa Object has overlapping UVs.
+[2019.06.18-22.30.43:963][684]LightingResults: Tub_Completa Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.18-22.31.42:495][814]Job is a success!
+[2019.06.18-22.31.42:675][815]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2019.06.18-22.31.42:675][815]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.18-22.31.42:675][815]LogVolumetricLightmapImport:      BrickData 520x5x5 = 0.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.06.18-22.31.42:675][815]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.18-22.31.42:675][815]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2019.06.18-22.31.42:675][815]LogVolumetricLightmapImport:          1: 3.8% covering 6.3% of volume
+[2019.06.18-22.31.42:675][815]LogVolumetricLightmapImport:          2: 95.2% covering 2.4% of volume
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:737][815]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 1024X512)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 128X64)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2019.06.18-22.31.48:738][815]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2019.06.18-22.31.48:760][815]Lightmass on TITANIUM: 2:11 min total, 408 ms importing, 279 ms setup, 13.6 sec photons, 1:56 min processing, 0 ms extra exporting [255/255 mappings]. Threads: 13:38 min total, 10:17 min processing.
+[2019.06.18-22.31.48:773][815]LogStaticLightingSystem: Banheiro_BuiltData storing lightmap data for 233 meshes in 17 LightmapResourceClusters (13.7 Meshes per cluster).
+[2019.06.18-22.31.48:858][815]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.06.18-22.31.48:867][815]LogStaticLightingSystem: Illumination: 2:20 min (5.50 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.06.18-22.31.48:867][815]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 34 textures
+[2019.06.18-22.31.48:867][815]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.06.18-22.31.48:903][815]DumpUnbuiltLightIteractions
+[2019.06.18-22.31.48:903][815]Lights with unbuilt interactions: 0
+[2019.06.18-22.31.48:903][815]
+[2019.06.18-22.31.48:903][815]Primitives with unbuilt interactions: 0
+[2019.06.18-22.31.49:019][816]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.18-22.31.49:019][816]MapCheck: New page: Banheiro - Jun 18, 2019, 4:31:49 PM
+[2019.06.18-22.31.49:021][816]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.947ms to complete.
+[2019.06.18-22.31.50:293][944]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.31.50:302][944]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.31.51:060][ 31]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.18-22.31.51:075][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.31.51:075][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-22.31.51:075][ 31]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 4:31:51 PM)
+[2019.06.18-22.31.51:076][ 31]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-22.31.51:112][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034900s)
+[2019.06.18-22.31.51:113][ 31]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-22.31.51:113][ 31]LogPlayLevel: PIE: World Init took: (0.001549s)
+[2019.06.18-22.31.51:113][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.037404s)
+[2019.06.18-22.31.51:148][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.06.18-22.31.51:162][ 31]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-22.31.51:200][ 31]LogInit: FAudioDevice initialized.
+[2019.06.18-22.31.51:208][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-22.31.51:247][ 31]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-22.31.51:265][ 31]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 0) at 2019.06.18-19.31.51
+[2019.06.18-22.31.51:270][ 31]LogWorld: Bringing up level for play took: 0.022265
+[2019.06.18-22.31.51:293][ 31]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro 0.009
+[2019.06.18-22.31.51:294][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.32.03:165][ 49]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.32.03:294][ 60]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.32.03:435][ 72]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.32.03:595][ 86]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.32.07:318][402]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-22.32.07:331][403]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-22.32.07:467][415]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-22.32.07:607][427]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-22.32.08:628][514]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.32.08:750][524]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.32.08:885][536]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.32.08:900][537]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.32.09:178][560]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.32.09:314][571]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.32.09:472][584]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.32.09:625][597]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.32.12:164][815]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-22.32.12:784][872]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-22.32.12:941][886]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-22.32.13:421][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-22.32.13:421][928]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-22.32.15:924][128]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-22.32.18:984][372]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-22.32.19:292][395]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-22.32.19:403][404]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-22.32.20:114][457]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-22.32.27:589][ 65]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-22.32.27:945][ 96]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-22.32.28:303][124]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-22.32.28:441][136]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-22.32.32:695][518]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.32.32:818][528]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.32.32:958][540]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.32.33:101][553]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.32.36:733][877]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-22.32.38:967][ 76]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.32.39:096][ 87]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.32.39:230][ 98]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.32.39:391][113]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.32.40:015][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-22.32.40:015][171]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-22.32.42:508][368]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-22.32.48:877][970]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.32.49:026][982]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.32.49:181][995]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.32.49:343][  8]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.32.56:722][705]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-22.32.56:744][707]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-22.32.56:976][728]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-22.32.57:108][740]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-22.32.57:132][742]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-22.32.57:244][752]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-22.32.57:256][753]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-22.32.57:394][765]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-22.33.00:618][ 59]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-22.33.00:753][ 71]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-22.33.01:052][ 99]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-22.33.01:182][111]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-22.33.12:389][123]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.33.12:515][135]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.33.12:658][148]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.33.12:791][160]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.33.13:289][207]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-22.33.15:781][440]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-22.33.33:929][164]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-22.33.34:068][175]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-22.33.34:221][189]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-22.33.34:372][199]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-22.33.52:151][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-22.33.54:643][176]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-22.33.56:240][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.33.56:240][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-22.33.56:254][339]LogSlate: Window 'GoldenEye Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.18-22.33.56:298][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-22.33.56:298][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.33.56:345][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.06.18-22.33.56:388][340]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2019.06.18-22.33.57:451][447]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.33.57:458][447]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.33.58:309][546]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.18-22.33.58:326][546]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.33.58:326][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-22.33.58:326][546]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 4:33:58 PM)
+[2019.06.18-22.33.58:327][546]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-22.33.58:352][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024956s)
+[2019.06.18-22.33.58:353][546]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-22.33.58:353][546]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2019.06.18-22.33.58:353][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.026339s)
+[2019.06.18-22.33.58:387][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.06.18-22.33.58:400][546]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-22.33.58:445][546]LogInit: FAudioDevice initialized.
+[2019.06.18-22.33.58:456][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-22.33.58:490][546]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-22.33.58:510][546]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 0) at 2019.06.18-19.33.58
+[2019.06.18-22.33.58:519][546]LogWorld: Bringing up level for play took: 0.027435
+[2019.06.18-22.33.58:540][546]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro -0.743
+[2019.06.18-22.33.58:541][546]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.34.04:810][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-22.34.04:810][ 63]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-22.34.07:307][279]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-22.34.10:663][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-22.34.10:664][574]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-22.34.13:158][798]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-22.34.30:239][267]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.34.30:383][279]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.34.30:527][291]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.34.30:670][302]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.34.38:822][957]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.34.38:951][969]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.34.39:095][982]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.34.39:985][ 59]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.34.41:227][170]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.34.41:567][200]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.34.43:007][324]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.34.43:142][336]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.34.45:329][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.34.45:329][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-22.34.45:344][525]LogSlate: Window 'GoldenEye Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.18-22.34.45:386][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-22.34.45:386][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.34.45:435][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.06.18-22.34.45:480][526]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2019.06.18-22.34.46:852][666]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.34.46:858][666]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.35.05:784][779]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2019.06.18-22.35.26:810][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2019.06.18-22.35.26:892][225]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/SimpleAID5454CB6419C9F8373D400B127B56E3D.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2019.06.18-22.35.27:338][247]BlueprintLog: New page: Compile SimpleAI
+[2019.06.18-22.35.27:700][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.06.18-22.35.28:780][301]LogSlate: Window 'My Blueprint' being destroyed
+[2019.06.18-22.35.28:783][301]LogSlate: Window 'My Blueprint' being destroyed
+[2019.06.18-22.35.28:784][301]LogSlate: Window 'SimpleAI' being destroyed
+[2019.06.18-22.35.29:807][413]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.18-22.35.29:824][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.35.29:824][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-22.35.29:825][413]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 4:35:29 PM)
+[2019.06.18-22.35.29:825][413]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-22.35.29:849][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023862s)
+[2019.06.18-22.35.29:849][413]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-22.35.29:850][413]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2019.06.18-22.35.29:850][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.025243s)
+[2019.06.18-22.35.29:893][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.06.18-22.35.29:907][413]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-22.35.29:944][413]LogInit: FAudioDevice initialized.
+[2019.06.18-22.35.29:953][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-22.35.29:987][413]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-22.35.30:005][413]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 0) at 2019.06.18-19.35.30
+[2019.06.18-22.35.30:010][413]LogWorld: Bringing up level for play took: 0.021529
+[2019.06.18-22.35.30:028][413]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro 0.744
+[2019.06.18-22.35.30:029][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.35.36:131][976]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.35.36:276][988]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.35.36:412][999]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.35.36:562][ 12]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.35.36:706][ 25]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.35.37:097][ 61]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.35.37:668][106]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-22.35.43:280][631]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.35.43:409][642]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.35.43:545][653]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.35.43:846][675]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.35.43:849][675]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.35.44:543][736]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.35.44:730][753]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-22.35.45:805][840]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.35.45:936][853]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.35.46:073][862]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.35.46:087][863]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.35.46:226][875]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.35.46:370][885]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.35.46:503][896]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-22.35.50:342][255]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.35.50:471][268]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.35.50:608][281]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.35.50:752][294]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.35.50:870][305]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.35.50:881][306]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.35.51:021][320]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-22.35.51:374][354]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-22.35.51:374][354]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-22.35.53:867][595]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-22.35.55:379][728]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.35.55:509][741]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.35.55:650][755]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.35.55:787][768]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.35.55:935][781]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.35.56:080][795]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.35.56:858][866]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-22.36.01:814][335]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.36.01:944][347]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.36.02:071][357]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.36.02:085][358]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.36.02:232][371]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.36.02:367][382]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.36.02:523][396]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-22.36.03:411][481]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.36.03:554][495]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.36.03:863][523]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.36.03:873][524]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.36.04:015][537]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.36.04:165][551]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.36.04:556][587]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-22.36.05:863][701]LogCharacterMovement: SimpleAI16_47 is stuck and failed to move! Velocity: X=20.63 Y=-3.05 Z=0.00 Location: X=-922.00 Y=-1100.86 Z=93.90 Normal: X=-0.64 Y=-0.43 Z=-0.64 PenetrationDepth:17.953 Actor:Corrimão_escada_corredor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.06.18-22.36.06:198][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.36.06:199][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-22.36.06:214][735]LogSlate: Window 'GoldenEye Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.18-22.36.06:252][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-22.36.06:252][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-22.36.06:313][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.06.18-22.36.06:355][736]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2019.06.18-22.36.07:500][862]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.36.07:508][862]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-22.40.15:452][448]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2019.06.18-22.41.56:860][197]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/InfinityBladeEffects/Effects/FX_Mobile/Impacts/P_Impact_Shield_Fire.P_Impact_Shield_Fire
+[2019.06.18-22.41.56:908][197]LogBlueprintActionDatabase: Requesting refresh due to module change: Cascade (loaded)
+[2019.06.18-22.41.56:909][197]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2019.06.18-22.41.56:994][197]LogBlueprintActionDatabase: Requesting refresh due to module change: DistCurveEditor (loaded)
+[2019.06.18-22.42.01:944][614]LogCascade: Quitting Cascade. FXSystem=0x000001B3BA6EF280
+[2019.06.18-22.44.10:639][441]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.06.18-22.44.11:224][441]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_Auto94B0B375A4685E1E736BC6DA991272909.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Banheiro_Auto9.umap'
+[2019.06.18-22.44.11:229][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GoldenMap/Banheiro' took 0.697
+[2019.06.18-22.44.11:229][441]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.697
+[2019.06.18-22.45.47:924][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SimpleAI" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset" SILENT=true
+[2019.06.18-22.45.47:995][958]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/SimpleAI444C79074CB5D948727BE6A9908624DB.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2019.06.18-22.45.51:250][183]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2019.06.18-22.45.51:272][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoldenMap/Banheiro" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.18-22.45.51:319][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.06.18-22.45.51:883][183]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro033E974F48A41CD1C5BA70BAEBC47A9A.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro.umap'
+[2019.06.18-22.45.51:919][183]LogFileHelpers: Saving map 'Banheiro' took 0.647
+[2019.06.18-22.45.51:922][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoldenMap/Banheiro_BuiltData" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro_BuiltData.uasset" SILENT=true
+[2019.06.18-22.45.54:145][183]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_BuiltData139156C64990BD1727573282957B3B0D.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro_BuiltData.uasset'
+[2019.06.18-22.45.54:214][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.06.18-22.45.54:539][183]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/ThirdPersonExampleMapEC3F559F47C3D82B2E39A69155A83731.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.18-22.45.54:554][183]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.395
+[2019.06.18-22.45.54:685][183]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/WhatsApp_Image_2017-10-03_at_16_2FC041674513A242BDAA3B976688DD95.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10.uasset'
+[2019.06.18-22.45.54:699][183]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/WhatsApp_Image_2017-10-03_at_16_7AD4704F435E904576C3B09FA921EE0B.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10_Mat.uasset'
+[2019.06.18-22.45.54:708][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fotos/FOTO" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/Fotos/FOTO.uasset" SILENT=true
+[2019.06.18-22.45.54:756][183]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/FOTODD04AB4E4900F3F5AB5D1683ADD18E9E.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/Fotos/FOTO.uasset'
+[2019.06.18-22.45.54:763][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fotos/FOTO_Mat" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/Fotos/FOTO_Mat.uasset" SILENT=true
+[2019.06.18-22.45.54:767][183]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/FOTO_MatF70271BB437740CF8CF1E492C45AEB20.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/Fotos/FOTO_Mat.uasset'
+[2019.06.18-22.45.54:777][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fotos/james_bonds" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/Fotos/james_bonds.uasset" SILENT=true
+[2019.06.18-22.45.54:786][183]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/james_bondsC75E41BD48A479D41440AD9FB2A1B3F0.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/Fotos/james_bonds.uasset'
+[2019.06.18-22.45.54:795][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fotos/james_bonds_Mat" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/Fotos/james_bonds_Mat.uasset" SILENT=true
+[2019.06.18-22.45.54:800][183]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/james_bonds_Mat49FB3000442F21882520B2B857B0B044.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/Fotos/james_bonds_Mat.uasset'
+[2019.06.18-22.46.00:344][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoldenMap/Banheiro" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.18-22.46.00:391][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.06.18-22.46.00:961][602]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro49B9552E42865B4C010A95B0E02BA6EB.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro.umap'
+[2019.06.18-22.46.01:004][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoldenMap/Banheiro_BuiltData" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro_BuiltData.uasset" SILENT=true
+[2019.06.18-22.46.02:875][602]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_BuiltData1C6FB49B48D0CBFC406260AFE5B9FEEE.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro_BuiltData.uasset'
