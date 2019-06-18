@@ -1738,3 +1738,1418 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.18-20.45.56:787][634]LogPlayLevel: Display: Destroying online subsystem :Context_48
 [2019.06.18-20.45.58:296][802]LogSlate: Window 'Message Log' being destroyed
 [2019.06.18-20.45.58:304][802]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-20.46.29:621][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.06.18-20.46.30:197][612]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_Auto2C19ABF8D4132D30F9B4781BF4F9B8398.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Banheiro_Auto2.umap'
+[2019.06.18-20.46.30:200][612]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GoldenMap/Banheiro' took 0.614
+[2019.06.18-20.46.30:200][612]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.614
+[2019.06.18-20.46.30:203][612]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GoldenMap/Meshes/Banheiro/Pia/_Default_Material] ([1] browsable assets)...
+[2019.06.18-20.46.30:215][612]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GoldenMap/Meshes/Banheiro/Pia/_Default_Material._Default_Material]
+[2019.06.18-20.46.30:215][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/GoldenMap/Meshes/Banheiro/Pia/_Default_Material]
+[2019.06.18-20.46.30:236][612]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/_Default_Material_Auto2956018A846DA88300E6C139433905AEB.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Meshes/Banheiro/Pia/_Default_Material_Auto2.uasset'
+[2019.06.18-20.46.30:239][612]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GoldenMap/Meshes/Banheiro/Pia/Metal] ([1] browsable assets)...
+[2019.06.18-20.46.30:250][612]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GoldenMap/Meshes/Banheiro/Pia/Metal.Metal]
+[2019.06.18-20.46.30:250][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/GoldenMap/Meshes/Banheiro/Pia/Metal]
+[2019.06.18-20.46.30:271][612]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Metal_Auto21FBE69804C580D7516352C951FC4AA5E.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Meshes/Banheiro/Pia/Metal_Auto2.uasset'
+[2019.06.18-20.46.30:275][612]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GoldenMap/Meshes/Banheiro/Urinal/Metal] ([1] browsable assets)...
+[2019.06.18-20.46.30:288][612]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GoldenMap/Meshes/Banheiro/Urinal/Metal.Metal]
+[2019.06.18-20.46.30:288][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/GoldenMap/Meshes/Banheiro/Urinal/Metal]
+[2019.06.18-20.46.30:307][612]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Metal_Auto2817160AA4EDE9800B4CCE48D3C184B0D.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Meshes/Banheiro/Urinal/Metal_Auto2.uasset'
+[2019.06.18-20.46.30:311][612]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GoldenMap/Meshes/Banheiro/Urinal/Terracotta] ([1] browsable assets)...
+[2019.06.18-20.46.30:323][612]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GoldenMap/Meshes/Banheiro/Urinal/Terracotta.Terracotta]
+[2019.06.18-20.46.30:323][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/GoldenMap/Meshes/Banheiro/Urinal/Terracotta]
+[2019.06.18-20.46.30:345][612]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Terracotta_Auto2B051AAA04A4756A611D26CA1A671EB4B.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Meshes/Banheiro/Urinal/Terracotta_Auto2.uasset'
+[2019.06.18-20.46.30:347][612]LogFileHelpers: Auto-saving content packages took 0.146
+[2019.06.18-20.47.20:595][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.47.34:983][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.47.37:009][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (urinal)
+[2019.06.18-20.47.39:258][896]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (urinal)
+[2019.06.18-20.47.39:284][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.47.41:352][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.47.44:191][416]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.06.18-20.47.44:197][416]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.06.18-20.47.44:853][493]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (urinal)
+[2019.06.18-20.47.44:877][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.47.49:106][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.47.50:371][111]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/GoldenMap/Meshes/Banheiro/Urinal/urinal.urinal
+[2019.06.18-20.47.50:382][111]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2019.06.18-20.47.52:540][233]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:124).
+[2019.06.18-20.48.32:445][559]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.48.50:478][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.49.17:507][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.49.29:990][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.49.30:045][507]LogSlate: Window 'urinal' being destroyed
+[2019.06.18-20.49.33:239][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.49.44:842][164]LogStaticMesh: Building static mesh pia_Cylinder02_Geo_1...
+[2019.06.18-20.49.44:856][164]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.06.18-20.49.45:040][164]LogStaticMesh: Built static mesh [0.20s] /Game/GoldenMap/Meshes/Banheiro/Pia/pia_Cylinder02_Geo_1.pia_Cylinder02_Geo_1
+[2019.06.18-20.49.45:120][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.49.45:124][164]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/GoldenMap/Meshes/Banheiro/Pia/pia_Cylinder02_Geo_1.pia_Cylinder02_Geo_1
+[2019.06.18-20.49.48:295][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.49.48:390][386]LogSlate: Window 'pia_Cylinder02_Geo_1' being destroyed
+[2019.06.18-20.49.51:810][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.49.51:943][759]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/GoldenMap/Meshes/Banheiro/Pia/StaticMesh.StaticMesh
+[2019.06.18-20.49.58:019][234]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.50.01:451][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.50.05:077][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.50.43:740][611]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.51.02:494][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.51.07:062][262]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/GoldenMap/Meshes/Banheiro/Urinal/urinal.urinal
+[2019.06.18-20.51.33:071][ 55]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.06.18-20.51.45:554][431]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/urinal895F1E9F442861BABD025F94E469154E.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Meshes/Banheiro/Urinal/urinal.uasset'
+[2019.06.18-20.51.47:641][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.52.02:685][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.52.04:760][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.53.37:632][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.53.37:695][ 19]LogSlate: Window 'urinal' being destroyed
+[2019.06.18-20.53.37:702][ 19]LogSlate: Window 'urinal' being destroyed
+[2019.06.18-20.53.39:270][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.53.45:503][880]MapCheck: New page: Map Check
+[2019.06.18-20.53.45:511][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.53.45:515][880]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.18-20.53.45:517][880]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.18-20.53.45:636][880]LightingResults: New page: Lighting Build - Jun 18, 2019, 2:53:45 PM
+[2019.06.18-20.53.45:643][880]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.18-20.53.45:646][880]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.18-20.53.45:646][880]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.18-20.53.45:647][880]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.18-20.53.45:647][880]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8760
+[2019.06.18-20.53.50:217][880]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.18-20.53.50:218][880]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.18-20.53.50:218][880]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.18-20.53.50:218][880]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.18-20.53.50:218][880]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.18-20.53.50:218][880]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.18-20.53.50:439][880]LogEditorBuildUtils: Build time 0:04
+[2019.06.18-20.53.50:481][880]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer _Default_Material, compiling. 
+[2019.06.18-20.53.50:489][880]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer _Default_Material, compiling. 
+[2019.06.18-20.53.50:553][881]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2019.06.18-20.53.50:568][881]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2019.06.18-20.53.50:599][882]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2019.06.18-20.53.50:611][882]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2019.06.18-20.53.50:645][883]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Terracotta, compiling. 
+[2019.06.18-20.53.50:655][883]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Terracotta, compiling. 
+[2019.06.18-20.53.53:155][890]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2019.06.18-20.55.14:192][ 51]LightingResults: Warning: Tub_Completa Object has overlapping UVs.
+[2019.06.18-20.55.14:192][ 51]LightingResults: Tub_Completa Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.18-20.55.34:955][897]Job is a success!
+[2019.06.18-20.55.34:975][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.55.35:111][898]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2019.06.18-20.55.35:111][898]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.18-20.55.35:111][898]LogVolumetricLightmapImport:      BrickData 520x5x5 = 0.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.06.18-20.55.35:111][898]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.18-20.55.35:111][898]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2019.06.18-20.55.35:111][898]LogVolumetricLightmapImport:          1: 3.8% covering 6.3% of volume
+[2019.06.18-20.55.35:111][898]LogVolumetricLightmapImport:          2: 95.2% covering 2.4% of volume
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:109][898]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 1024X512)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 128X64)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2019.06.18-20.55.41:110][898]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2019.06.18-20.55.41:126][898]Lightmass on TITANIUM: 1:47 min total, 275 ms importing, 236 ms setup, 11.7 sec photons, 1:34 min processing, 0 ms extra exporting [209/209 mappings]. Threads: 11:03 min total, 8:13 min processing.
+[2019.06.18-20.55.41:135][898]LogStaticLightingSystem: Banheiro_BuiltData storing lightmap data for 187 meshes in 17 LightmapResourceClusters (11.0 Meshes per cluster).
+[2019.06.18-20.55.41:228][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.06.18-20.55.41:234][898]LogStaticLightingSystem: Illumination: 1:55 min (5.49 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.06.18-20.55.41:234][898]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 34 textures
+[2019.06.18-20.55.41:234][898]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.06.18-20.55.41:329][898]DumpUnbuiltLightIteractions
+[2019.06.18-20.55.41:329][898]Lights with unbuilt interactions: 0
+[2019.06.18-20.55.41:329][898]
+[2019.06.18-20.55.41:329][898]Primitives with unbuilt interactions: 0
+[2019.06.18-20.55.41:453][899]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.18-20.55.41:453][899]MapCheck: New page: Banheiro - Jun 18, 2019, 2:55:41 PM
+[2019.06.18-20.55.41:454][899]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.333ms to complete.
+[2019.06.18-20.56.16:305][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.56.16:348][ 60]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-20.56.16:355][ 60]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-20.56.18:634][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (urinal)
+[2019.06.18-20.56.24:183][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (urinal2)
+[2019.06.18-20.56.26:130][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (urinal)
+[2019.06.18-20.56.31:520][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.56.39:219][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Banheiro)
+[2019.06.18-20.56.42:451][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (urinal)
+[2019.06.18-20.56.42:587][ 21]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.06.18-20.56.43:501][126]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.06.18-20.56.43:526][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-20.56.48:919][721]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2019.06.18-20.56.56:789][623]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2019.06.18-20.57.00:829][ 67]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2019.06.18-20.57.10:635][167]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2019.06.18-20.57.21:141][313]LogAssetEditorManager: Opening Asset editor for Material /Game/GoldenMap/Meshes/Banheiro/Urinal/Metal.Metal
+[2019.06.18-20.57.21:145][313]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-20.57.21:265][313]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-20.57.21:287][313]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-20.57.21:313][313]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-20.57.21:341][313]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.18-20.57.22:393][363]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-20.57.23:964][435]LogSlate: Window 'Metal' being destroyed
+[2019.06.18-20.57.43:462][613]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2019.06.18-20.57.47:816][ 78]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2019.06.18-20.57.52:566][587]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2019.06.18-20.57.54:744][824]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2019.06.18-20.58.08:819][380]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2019.06.18-20.58.10:807][600]LogContentBrowser: Verbose: The majority of assets in the view are of type: Material
+[2019.06.18-20.58.13:446][903]LogContentBrowser: Verbose: The majority of assets in the view are of type: MaterialInstanceConstant
+[2019.06.18-20.58.14:775][ 49]LogContentBrowser: Verbose: The majority of assets in the view are of type: Material
+[2019.06.18-20.58.20:261][684]LogAssetEditorManager: Opening Asset editor for Material /Game/GoldenMap/Meshes/Banheiro/Urinal/Terracotta.Terracotta
+[2019.06.18-20.58.20:265][684]LogMaterial: Display: Missing cached shader map for material Terracotta, compiling. 
+[2019.06.18-20.58.20:361][684]LogMaterial: Display: Missing cached shader map for material Terracotta, compiling. 
+[2019.06.18-20.58.20:383][684]LogMaterial: Display: Missing cached shader map for material Terracotta, compiling. 
+[2019.06.18-20.58.20:417][684]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-20.58.20:432][684]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.18-20.58.21:626][741]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-20.58.23:194][815]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-20.58.24:476][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-20.58.24:554][880]LogSlate: Window 'Terracotta' being destroyed
+[2019.06.18-20.58.26:176][ 52]MapCheck: New page: Map Check
+[2019.06.18-20.58.26:192][ 52]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.18-20.58.26:193][ 52]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.18-20.58.26:405][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.06.18-20.58.26:455][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:498][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:506][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.06.18-20.58.26:566][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:578][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:590][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:602][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:622][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:633][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:647][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:658][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:672][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:686][ 52]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.18-20.58.26:686][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:698][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:709][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:720][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:731][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.26:741][ 52]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-20.58.30:380][ 52]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.18-20.58.30:380][ 52]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.18-20.58.30:380][ 52]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.18-20.58.30:380][ 52]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-20.58.30:380][ 52]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-20.58.30:380][ 52]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-20.58.30:380][ 52]TextureStreamingBuild: Display: Compiling optional shaders took 3.928 seconds.
+[2019.06.18-20.58.30:422][ 52]LogLevel: Display: Export Material TexCoord Scales took 0.042 seconds.
+[2019.06.18-20.58.30:633][ 52]TextureStreamingBuild: Display: Build Texture Streaming took 0.210 seconds.
+[2019.06.18-20.58.30:675][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.06.18-20.58.30:699][ 52]LogEditorBuildUtils: Build time 0:04
+[2019.06.18-20.58.35:374][573]MapCheck: New page: Map Check
+[2019.06.18-20.58.35:388][573]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.18-20.58.35:388][573]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.18-20.58.35:507][573]LightingResults: New page: Lighting Build - Jun 18, 2019, 2:58:35 PM
+[2019.06.18-20.58.35:518][573]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.18-20.58.35:522][573]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.18-20.58.35:522][573]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.18-20.58.35:524][573]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.18-20.58.35:524][573]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8760
+[2019.06.18-20.58.40:060][573]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.18-20.58.40:062][573]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.18-20.58.40:062][573]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.18-20.58.40:062][573]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.18-20.58.40:062][573]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.18-20.58.40:062][573]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.18-20.58.40:257][573]LogEditorBuildUtils: Build time 0:04
+[2019.06.18-20.58.40:385][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.06.18-20.58.59:448][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.06.18-20.59.00:082][195]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_Auto383A32D7B493FBCAD7A9B9D80052353E8.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Banheiro_Auto3.umap'
+[2019.06.18-20.59.00:088][195]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GoldenMap/Banheiro' took 0.673
+[2019.06.18-20.59.00:088][195]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.673
+[2019.06.18-21.00.05:215][986]LightingResults: Warning: Tub_Completa Object has overlapping UVs.
+[2019.06.18-21.00.05:215][986]LightingResults: Tub_Completa Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.18-21.00.24:093][667]Job is a success!
+[2019.06.18-21.00.24:266][668]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2019.06.18-21.00.24:267][668]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.18-21.00.24:267][668]LogVolumetricLightmapImport:      BrickData 520x5x5 = 0.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.06.18-21.00.24:267][668]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.18-21.00.24:267][668]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2019.06.18-21.00.24:267][668]LogVolumetricLightmapImport:          1: 3.8% covering 6.3% of volume
+[2019.06.18-21.00.24:267][668]LogVolumetricLightmapImport:          2: 95.2% covering 2.4% of volume
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:900][668]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:901][668]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 1024X512)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 1024X1024)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 1024X1024)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 128X64)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 128X128)
+[2019.06.18-21.00.29:902][668]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 128X128)
+[2019.06.18-21.00.29:920][668]Lightmass on TITANIUM: 1:48 min total, 311 ms importing, 223 ms setup, 12.6 sec photons, 1:35 min processing, 0 ms extra exporting [209/209 mappings]. Threads: 11:06 min total, 8:22 min processing.
+[2019.06.18-21.00.29:930][668]LogStaticLightingSystem: Banheiro_BuiltData storing lightmap data for 187 meshes in 17 LightmapResourceClusters (11.0 Meshes per cluster).
+[2019.06.18-21.00.29:985][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.06.18-21.00.29:991][668]LogStaticLightingSystem: Illumination: 1:54 min (5.16 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.06.18-21.00.29:991][668]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 34 textures
+[2019.06.18-21.00.29:991][668]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.06.18-21.00.30:161][668]DumpUnbuiltLightIteractions
+[2019.06.18-21.00.30:161][668]Lights with unbuilt interactions: 0
+[2019.06.18-21.00.30:161][668]
+[2019.06.18-21.00.30:161][668]Primitives with unbuilt interactions: 0
+[2019.06.18-21.00.30:313][669]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.18-21.00.30:313][669]MapCheck: New page: Banheiro - Jun 18, 2019, 3:00:30 PM
+[2019.06.18-21.00.30:315][669]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.475ms to complete.
+[2019.06.18-21.05.44:325][648]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.18-21.05.44:341][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.05.44:341][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-21.05.44:341][648]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 3:05:44 PM)
+[2019.06.18-21.05.44:341][648]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-21.05.44:387][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045945s)
+[2019.06.18-21.05.44:388][648]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-21.05.44:389][648]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2019.06.18-21.05.44:389][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.047788s)
+[2019.06.18-21.05.44:421][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.06.18-21.05.44:436][648]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-21.05.44:472][648]LogInit: FAudioDevice initialized.
+[2019.06.18-21.05.44:505][648]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-21.05.44:514][648]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 60) at 2019.06.18-18.05.44
+[2019.06.18-21.05.44:516][648]LogWorld: Bringing up level for play took: 0.009898
+[2019.06.18-21.05.44:532][648]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro -0.798
+[2019.06.18-21.05.44:533][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.05.46:813][780]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-21.05.46:823][780]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-21.05.55:824][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.05.55:824][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.05.55:858][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-21.05.55:858][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.05.55:917][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.05.55:923][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.06.18-21.05.55:944][321]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.06.18-21.05.57:628][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.06.05:412][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.06.18-21.06.07:254][886]LogSlate: Window 'Save Content' being destroyed
+[2019.06.18-21.06.07:279][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoldenMap/Banheiro" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.18-21.06.07:310][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.06.18-21.06.07:787][886]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/BanheiroE4A7578648B715B644D8008CF4465ED4.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro.umap'
+[2019.06.18-21.06.07:822][886]LogFileHelpers: Saving map 'Banheiro' took 0.543
+[2019.06.18-21.06.07:825][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GoldenMap/Banheiro_BuiltData" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro_BuiltData.uasset" SILENT=true
+[2019.06.18-21.06.09:635][886]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_BuiltData9E94951B4130DD4DE1B1A0ACBCBE2A68.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Banheiro_BuiltData.uasset'
+[2019.06.18-21.06.09:656][886]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/_Default_Material3FE42C4547298AF4ED4DA6AF55BBA666.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Meshes/Banheiro/Pia/_Default_Material.uasset'
+[2019.06.18-21.06.09:676][886]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/MetalBD993A764666BDA8F94535BD368543D3.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Meshes/Banheiro/Pia/Metal.uasset'
+[2019.06.18-21.06.09:696][886]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/MetalACFE49FF4C3235A14F2FF4BEC4C3255A.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Meshes/Banheiro/Urinal/Metal.uasset'
+[2019.06.18-21.06.09:715][886]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/TerracottaA133C15F4180E9D66EA0E9B97699BC58.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Meshes/Banheiro/Urinal/Terracotta.uasset'
+[2019.06.18-21.06.27:519][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.06.27:519][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-21.06.27:519][261]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 3:06:27 PM)
+[2019.06.18-21.06.27:519][261]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-21.06.27:539][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020073s)
+[2019.06.18-21.06.27:540][261]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-21.06.27:540][261]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2019.06.18-21.06.27:540][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.020985s)
+[2019.06.18-21.06.27:575][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.06.18-21.06.27:587][261]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-21.06.27:623][261]LogInit: FAudioDevice initialized.
+[2019.06.18-21.06.27:632][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.06.27:670][261]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-21.06.27:680][261]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 60) at 2019.06.18-18.06.27
+[2019.06.18-21.06.27:683][261]LogWorld: Bringing up level for play took: 0.011798
+[2019.06.18-21.06.27:701][261]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro 0.37
+[2019.06.18-21.06.27:701][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.06.43:486][200]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:940).
+[2019.06.18-21.06.58:523][100]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.06.58:536][101]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.06.58:721][112]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.06.58:902][123]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.07.06:536][581]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-21.07.06:703][591]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-21.07.06:837][599]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-21.07.06:871][601]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-21.07.09:986][788]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-21.07.10:254][804]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-21.07.11:104][855]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-21.07.11:306][867]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-21.07.12:770][955]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK/Weapon_Base.Weapon_Base_C:Reload:01C0
+[2019.06.18-21.07.12:770][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-21.07.12:770][955]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-21.07.15:253][104]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-21.07.27:905][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.07.27:906][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.07.27:920][863]LogSlate: Window 'GoldenEye Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.18-21.07.27:959][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-21.07.27:959][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.07.28:007][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.06.18-21.07.28:044][864]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.06.18-21.08.06:731][182]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-21.08.06:737][182]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-21.08.10:118][384]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/GoldenMap/Meshes/Banheiro/Urinal/urinal.urinal
+[2019.06.18-21.08.19:293][915]LogStaticMesh: Warning: urinal has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.18-21.08.19:293][915]LogStaticMesh: Warning: urinal has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.18-21.08.21:611][ 48]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/urinal982864D04AD50E7874A42DA638027954.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Meshes/Banheiro/Urinal/urinal.uasset'
+[2019.06.18-21.08.22:170][ 80]LogSlate: Window 'urinal' being destroyed
+[2019.06.18-21.08.25:690][284]MapCheck: New page: Map Check
+[2019.06.18-21.08.25:704][284]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.18-21.08.25:705][284]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.18-21.08.25:821][284]LightingResults: New page: Lighting Build - Jun 18, 2019, 3:08:25 PM
+[2019.06.18-21.08.25:832][284]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.18-21.08.25:837][284]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.18-21.08.25:837][284]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.18-21.08.25:839][284]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.18-21.08.25:839][284]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8760
+[2019.06.18-21.08.30:365][284]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.18-21.08.30:366][284]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.18-21.08.30:366][284]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.18-21.08.30:366][284]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.18-21.08.30:366][284]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.18-21.08.30:366][284]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.18-21.08.30:620][284]LogEditorBuildUtils: Build time 0:04
+[2019.06.18-21.08.30:711][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.06.18-21.09.43:530][609]LightingResults: Warning: Tub_Completa Object has overlapping UVs.
+[2019.06.18-21.09.43:530][609]LightingResults: Tub_Completa Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.18-21.10.10:843][236]Job is a success!
+[2019.06.18-21.10.11:021][237]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2019.06.18-21.10.11:021][237]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.18-21.10.11:021][237]LogVolumetricLightmapImport:      BrickData 520x5x5 = 0.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.06.18-21.10.11:021][237]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.18-21.10.11:021][237]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2019.06.18-21.10.11:021][237]LogVolumetricLightmapImport:          1: 3.8% covering 6.3% of volume
+[2019.06.18-21.10.11:021][237]LogVolumetricLightmapImport:          2: 95.2% covering 2.4% of volume
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:690][237]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 1024X512)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2019.06.18-21.10.16:691][237]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 128X64)
+[2019.06.18-21.10.16:692][237]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2019.06.18-21.10.16:692][237]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2019.06.18-21.10.16:712][237]Lightmass on TITANIUM: 1:45 min total, 265 ms importing, 220 ms setup, 11.5 sec photons, 1:33 min processing, 0 ms extra exporting [209/209 mappings]. Threads: 10:51 min total, 8:07 min processing.
+[2019.06.18-21.10.16:724][237]LogStaticLightingSystem: Banheiro_BuiltData storing lightmap data for 187 meshes in 17 LightmapResourceClusters (11.0 Meshes per cluster).
+[2019.06.18-21.10.16:767][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.06.18-21.10.16:773][237]LogStaticLightingSystem: Illumination: 1:50 min (5.18 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.06.18-21.10.16:773][237]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 34 textures
+[2019.06.18-21.10.16:773][237]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.06.18-21.10.17:466][237]DumpUnbuiltLightIteractions
+[2019.06.18-21.10.17:466][237]Lights with unbuilt interactions: 0
+[2019.06.18-21.10.17:467][237]
+[2019.06.18-21.10.17:467][237]Primitives with unbuilt interactions: 0
+[2019.06.18-21.10.17:574][238]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.18-21.10.17:574][238]MapCheck: New page: Banheiro - Jun 18, 2019, 3:10:17 PM
+[2019.06.18-21.10.17:576][238]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.546ms to complete.
+[2019.06.18-21.10.47:111][  9]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-21.10.47:118][  9]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-21.10.48:211][ 75]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.18-21.10.48:224][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.10.48:225][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-21.10.48:225][ 75]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 3:10:48 PM)
+[2019.06.18-21.10.48:225][ 75]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-21.10.48:245][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020230s)
+[2019.06.18-21.10.48:246][ 75]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-21.10.48:247][ 75]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2019.06.18-21.10.48:247][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.021755s)
+[2019.06.18-21.10.48:280][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.06.18-21.10.48:293][ 75]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-21.10.48:331][ 75]LogInit: FAudioDevice initialized.
+[2019.06.18-21.10.48:342][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.10.48:375][ 75]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-21.10.48:386][ 75]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 60) at 2019.06.18-18.10.48
+[2019.06.18-21.10.48:388][ 75]LogWorld: Bringing up level for play took: 0.010937
+[2019.06.18-21.10.48:406][ 75]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro 1.075
+[2019.06.18-21.10.48:406][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.10.55:502][455]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-21.11.19:309][883]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK/Weapon_Base.Weapon_Base_C:Reload:01C0
+[2019.06.18-21.11.19:310][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-21.11.19:310][883]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-21.11.21:793][ 32]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-21.11.24:645][203]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.11.24:813][213]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.11.24:828][214]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.11.24:995][224]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.11.45:378][447]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK/Weapon_Base.Weapon_Base_C:Reload:01C0
+[2019.06.18-21.11.45:378][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-21.11.45:378][447]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-21.11.47:862][596]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-21.12.00:051][326]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-21.12.02:536][475]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-21.12.16:639][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.12.16:639][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.12.16:653][321]LogSlate: Window 'GoldenEye Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.18-21.12.16:702][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-21.12.16:702][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.12.16:749][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.06.18-21.12.16:791][322]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.06.18-21.12.18:804][442]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-21.12.18:810][442]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-21.12.31:021][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.12.44:071][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.12.52:980][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.12.56:466][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.13.00:900][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.13.03:380][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.13.05:424][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.13.08:071][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.13.11:502][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.13.13:457][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.13.16:077][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.13.21:640][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.13.26:903][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.13.28:445][477]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK/Weapon_Base.Weapon_Base
+[2019.06.18-21.13.40:418][159]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.18-21.13.40:436][159]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.13.40:436][159]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.18-21.13.40:448][159]LogPlayLevel: [PlayLevel] Compiling Weapon_Base before play...
+[2019.06.18-21.13.40:732][159]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Weapon_BaseE6FE38B3445A4FCF9A78F88DD9F91164.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/ThirdPersonBP/Blueprints/Weapons/AK/Weapon_Base.uasset'
+[2019.06.18-21.13.40:790][159]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.06.18-21.13.40:790][159]LogPlayLevel: PlayLevel: Blueprint regeneration took 354 ms (1 blueprints)
+[2019.06.18-21.13.40:790][159]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 3:13:40 PM)
+[2019.06.18-21.13.40:790][159]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-21.13.40:817][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025842s)
+[2019.06.18-21.13.40:817][159]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-21.13.40:818][159]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2019.06.18-21.13.40:818][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.027507s)
+[2019.06.18-21.13.40:855][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.06.18-21.13.40:872][159]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-21.13.40:911][159]LogInit: FAudioDevice initialized.
+[2019.06.18-21.13.40:922][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.13.40:960][159]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-21.13.40:977][159]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 60) at 2019.06.18-18.13.40
+[2019.06.18-21.13.40:983][159]LogWorld: Bringing up level for play took: 0.021656
+[2019.06.18-21.13.41:002][159]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro -0.329
+[2019.06.18-21.13.41:003][159]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.13.46:658][486]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.13.46:791][494]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.13.46:925][502]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.13.47:445][531]LogBlueprintUserMessages: [SimpleAI5_14] Hit
+[2019.06.18-21.13.51:676][778]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK/Weapon_Base.Weapon_Base_C:Reload:01C0
+[2019.06.18-21.13.51:676][778]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-21.13.51:677][778]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-21.13.54:176][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-21.13.54:464][939]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-21.13.54:581][946]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-21.13.54:733][955]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-21.13.54:883][964]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-21.13.54:884][964]LogBlueprintUserMessages: [SimpleAI15_44] Hit
+[2019.06.18-21.13.54:901][965]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-21.13.56:215][ 43]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-21.13.56:332][ 50]LogBlueprintUserMessages: [SimpleAI_2] Hit
+[2019.06.18-21.13.57:754][135]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-21.13.57:872][142]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-21.13.58:023][151]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-21.13.58:158][159]LogBlueprintUserMessages: [SimpleAI4_11] Hit
+[2019.06.18-21.14.01:619][360]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-21.14.01:721][366]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-21.14.01:856][374]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-21.14.01:974][381]LogBlueprintUserMessages: [SimpleAI7_20] Hit
+[2019.06.18-21.14.02:811][431]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-21.14.02:830][432]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-21.14.02:945][439]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-21.14.02:979][441]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-21.14.03:080][447]LogBlueprintUserMessages: [SimpleAI10_29] Hit
+[2019.06.18-21.14.03:095][448]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-21.14.03:229][456]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-21.14.03:857][491]LogBlueprintUserMessages: [SimpleAI8_23] Hit
+[2019.06.18-21.14.08:235][751]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-21.14.08:352][758]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-21.14.08:485][766]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-21.14.08:621][774]LogBlueprintUserMessages: [SimpleAI9_26] Hit
+[2019.06.18-21.14.13:835][ 71]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.06.18-21.14.13:835][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-21.14.16:325][212]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-21.14.16:446][219]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-21.14.16:460][220]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-21.14.16:577][227]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-21.14.16:727][236]LogBlueprintUserMessages: [SimpleAI6_17] Hit
+[2019.06.18-21.14.16:893][246]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-21.14.17:323][270]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-21.14.17:442][277]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-21.14.17:591][286]LogBlueprintUserMessages: [SimpleAI11_32] Hit
+[2019.06.18-21.14.19:756][412]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-21.14.19:886][419]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-21.14.20:031][427]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-21.14.20:172][435]LogBlueprintUserMessages: [SimpleAI12_35] Hit
+[2019.06.18-21.14.20:388][448]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-21.14.20:526][456]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-21.14.22:704][586]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-21.14.22:836][594]LogBlueprintUserMessages: [SimpleAI13_38] Hit
+[2019.06.18-21.14.25:536][754]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-21.14.25:652][761]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-21.14.25:786][769]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-21.14.25:919][777]LogBlueprintUserMessages: [SimpleAI3_8] Hit
+[2019.06.18-21.14.27:303][860]LogBlueprintUserMessages: [SimpleAI14_41] Hit
+[2019.06.18-21.14.27:404][866]LogBlueprintUserMessages: [SimpleAI14_41] Hit
+[2019.06.18-21.14.27:536][874]LogBlueprintUserMessages: [SimpleAI14_41] Hit
+[2019.06.18-21.14.27:653][881]LogBlueprintUserMessages: [SimpleAI14_41] Hit
+[2019.06.18-21.14.34:286][277]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-21.14.34:421][285]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-21.14.34:553][293]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-21.14.34:687][301]LogBlueprintUserMessages: [SimpleAI2_5] Hit
+[2019.06.18-21.14.36:509][409]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-21.14.36:626][416]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-21.14.37:159][448]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] reloading
+[2019.06.18-21.14.39:643][597]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] not reloading
+[2019.06.18-21.14.41:047][681]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-21.14.41:462][705]LogBlueprintUserMessages: [SimpleAI16_47] Hit
+[2019.06.18-21.14.47:086][ 40]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.14.47:086][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.14.47:107][ 40]LogSlate: Window 'GoldenEye Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.18-21.14.47:145][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-21.14.47:146][ 40]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.14.47:196][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.06.18-21.14.47:234][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.06.18-21.14.48:737][130]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-21.14.48:745][130]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-21.17.19:303][629]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.18-21.17.19:325][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.17.19:325][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-21.17.19:325][629]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 3:17:19 PM)
+[2019.06.18-21.17.19:325][629]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-21.17.19:349][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024136s)
+[2019.06.18-21.17.19:350][629]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-21.17.19:350][629]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2019.06.18-21.17.19:350][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.025357s)
+[2019.06.18-21.17.19:385][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.06.18-21.17.19:398][629]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-21.17.19:438][629]LogInit: FAudioDevice initialized.
+[2019.06.18-21.17.19:447][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.17.19:481][629]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-21.17.19:497][629]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 60) at 2019.06.18-18.17.19
+[2019.06.18-21.17.19:502][629]LogWorld: Bringing up level for play took: 0.019700
+[2019.06.18-21.17.19:522][629]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro 0.192
+[2019.06.18-21.17.19:523][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.17.37:181][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.17.37:182][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.17.37:196][680]LogSlate: Window 'GoldenEye Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.18-21.17.37:239][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-21.17.37:239][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.17.37:294][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.06.18-21.17.37:313][681]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2019.06.18-21.17.42:777][  7]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.06.18-21.17.45:340][157]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.18-21.17.46:308][214]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.18-21.17.48:641][353]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.18-21.17.52:703][595]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.18-21.17.56:317][811]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.18-21.18.02:521][175]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.18-21.18.03:950][260]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.18-21.18.06:164][391]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.18-21.18.07:970][498]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.06.18-21.18.08:855][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.18.08:922][552]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.18-21.18.08:940][552]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.18.08:940][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-21.18.08:940][552]PIE: New page: PIE session: Banheiro (Jun 18, 2019, 3:18:08 PM)
+[2019.06.18-21.18.08:940][552]LogPlayLevel: Creating play world package: /Game/GoldenMap/UEDPIE_0_Banheiro
+[2019.06.18-21.18.08:961][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021024s)
+[2019.06.18-21.18.08:962][552]LogAIModule: Creating AISystem for world Banheiro
+[2019.06.18-21.18.08:962][552]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2019.06.18-21.18.08:963][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GoldenMap/Banheiro.Banheiro to /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro (0.022275s)
+[2019.06.18-21.18.08:999][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.06.18-21.18.09:013][552]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-21.18.09:049][552]LogInit: FAudioDevice initialized.
+[2019.06.18-21.18.09:058][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.18.09:090][552]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.18-21.18.09:105][552]LogWorld: Bringing World /Game/GoldenMap/UEDPIE_0_Banheiro.Banheiro up for play (max tick rate 60) at 2019.06.18-18.18.09
+[2019.06.18-21.18.09:109][552]LogWorld: Bringing up level for play took: 0.018348
+[2019.06.18-21.18.09:129][552]PIE: Play in editor start time for /Game/GoldenMap/UEDPIE_0_Banheiro -0.202
+[2019.06.18-21.18.09:129][552]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.18.22:704][364]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.18.22:704][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-21.18.22:718][364]LogSlate: Window 'GoldenEye Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.18-21.18.22:758][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.18-21.18.22:758][364]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel' has LevelScriptBlueprint '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro' with GeneratedClass '/Game/GoldenMap/Banheiro.Banheiro_C' with ClassGeneratedBy '/Game/GoldenMap/Banheiro.Banheiro:PersistentLevel.Banheiro'
+[2019.06.18-21.18.22:806][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.06.18-21.18.22:822][365]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.06.18-21.19.10:419][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.19.10:607][207]LogStaticMesh: Building static mesh SM_Clock...
+[2019.06.18-21.19.10:629][207]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/Clock/SM_Clock.SM_Clock
+[2019.06.18-21.19.10:638][207]LogTexture: Display: Building textures: Clock_n (BC5, 1024X1024)
+[2019.06.18-21.19.10:639][207]LogStaticMesh: Building static mesh SM_Clock_glass...
+[2019.06.18-21.19.10:659][207]LogTexture: Display: Building textures: Clock_d (AutoDXT, 1024X1024)
+[2019.06.18-21.19.10:659][207]LogTexture: Display: Building textures: Clock_r_ao_m (AutoDXT, 1024X1024)
+[2019.06.18-21.19.10:668][207]LogStaticMesh: Built static mesh [0.03s] /Game/HQ_ResidentialHouse/Meshes/Clock/SM_Clock_glass.SM_Clock_glass
+[2019.06.18-21.19.15:022][207]LogTexture: Display: Building textures: Windows_r_ao_m (AutoDXT, 2048X2048)
+[2019.06.18-21.19.15:022][207]LogTexture: Display: Building textures: AC_unit_n (BC5, 2048X2048)
+[2019.06.18-21.19.15:022][207]LogTexture: Display: Building textures: AC_unit_r_ao_m (AutoDXT, 2048X2048)
+[2019.06.18-21.19.15:022][207]LogTexture: Display: Building textures: AC_unit_d (AutoDXT, 2048X2048)
+[2019.06.18-21.19.15:022][207]LogTexture: Display: Building textures: Windows_d (AutoDXT, 2048X2048)
+[2019.06.18-21.19.15:022][207]LogMaterial: Display: Missing cached shader map for material Mat_Glass, compiling. 
+[2019.06.18-21.19.15:092][207]LogMaterial: Display: Missing cached shader map for material Mat_Masked, compiling. 
+[2019.06.18-21.19.29:950][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.20.17:852][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.21.19:825][200]LogStaticMesh: Building static mesh SM_Whiteboard...
+[2019.06.18-21.21.19:844][200]LogTexture: Display: Building textures: Whiteboard_n (BC5, 1024X1024)
+[2019.06.18-21.21.19:845][200]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/Whiteboard/SM_Whiteboard.SM_Whiteboard
+[2019.06.18-21.21.20:147][200]LogTexture: Display: Building textures: Whiteboard_d (AutoDXT, 1024X1024)
+[2019.06.18-21.21.20:148][200]LogTexture: Display: Building textures: Whiteboard_r_ao_m (AutoDXT, 1024X1024)
+[2019.06.18-21.21.20:159][200]LogActorFactory: Actor Factory created SM_Whiteboard
+[2019.06.18-21.21.24:296][446]LogActorFactory: Actor Factory created SM_Whiteboard
+[2019.06.18-21.21.38:448][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corredor_escada)
+[2019.06.18-21.21.39:573][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Whiteboard)
+[2019.06.18-21.21.41:513][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.21.57:315][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.21.57:450][416]LogStaticMesh: Building static mesh SM_Sticker...
+[2019.06.18-21.21.57:459][416]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/Whiteboard/SM_Sticker.SM_Sticker
+[2019.06.18-21.21.57:544][420]LogActorFactory: Actor Factory created SM_Sticker
+[2019.06.18-21.22.00:735][611]LogActorFactory: Actor Factory created SM_Sticker
+[2019.06.18-21.22.15:148][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.22.15:250][473]LogStaticMesh: Building static mesh SM_Brush...
+[2019.06.18-21.22.15:261][473]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/Whiteboard/SM_Brush.SM_Brush
+[2019.06.18-21.22.15:359][478]LogActorFactory: Actor Factory created SM_Brush
+[2019.06.18-21.22.16:688][557]LogActorFactory: Actor Factory created SM_Brush
+[2019.06.18-21.23.23:456][958]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.06.18-21.23.23:998][958]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_Auto43328A9D1466F90F2C2F6F58E5B1F0D3A.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Banheiro_Auto4.umap'
+[2019.06.18-21.23.24:005][958]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GoldenMap/Banheiro' took 0.595
+[2019.06.18-21.23.24:005][958]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.595
+[2019.06.18-21.23.33:444][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.24.13:449][270]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/JPFN/Desktop/WhatsApp Image 2017-10-03 at 16.45.10.jpeg)
+[2019.06.18-21.24.13:479][270]LogTexture: Display: Building textures: WhatsApp_Image_2017-10-03_at_16_45_10 (AutoDXT, 960X1280)
+[2019.06.18-21.24.27:669][ 97]LogActorFactory: Actor Factory created Cube
+[2019.06.18-21.24.29:724][214]LogActorFactory: Actor Factory created Cube
+[2019.06.18-21.24.33:359][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.24.35:991][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2019.06.18-21.24.58:527][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.25.07:226][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.25.07:983][500]LogMaterial: Display: Missing cached shader map for material WhatsApp_Image_2017-10-03_at_16_45_10_Mat, compiling. 
+[2019.06.18-21.25.40:812][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.25.58:340][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.26.07:878][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/JPFN/Desktop/FOTO.jpg)
+[2019.06.18-21.26.07:894][687]LogTexture: Display: Building textures: FOTO (AutoDXT, 640X640)
+[2019.06.18-21.26.27:641][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Whiteboard)
+[2019.06.18-21.26.29:493][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Whiteboard)
+[2019.06.18-21.26.30:166][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sticker)
+[2019.06.18-21.26.31:519][ 79]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Whiteboard)
+[2019.06.18-21.26.32:307][124]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Brush)
+[2019.06.18-21.26.33:316][182]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube10)
+[2019.06.18-21.26.38:546][493]Cmd: EDIT COPY
+[2019.06.18-21.26.44:386][842]Cmd: EDIT PASTE
+[2019.06.18-21.27.00:525][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.27.01:474][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.18-21.27.03:203][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.27.04:023][  6]LogMaterial: Display: Missing cached shader map for material FOTO_Mat, compiling. 
+[2019.06.18-21.27.14:592][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.18-21.27.17:190][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.27.36:139][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.27.51:820][844]LogStaticMesh: Building static mesh SM_MagnetA...
+[2019.06.18-21.27.51:834][844]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/Whiteboard/SM_MagnetA.SM_MagnetA
+[2019.06.18-21.27.51:949][850]LogActorFactory: Actor Factory created SM_MagnetA
+[2019.06.18-21.27.54:141][981]LogActorFactory: Actor Factory created SM_MagnetA
+[2019.06.18-21.28.00:173][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.28.00:308][348]LogStaticMesh: Building static mesh SM_MagnetC...
+[2019.06.18-21.28.00:322][348]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/Whiteboard/SM_MagnetC.SM_MagnetC
+[2019.06.18-21.28.00:419][353]LogActorFactory: Actor Factory created SM_MagnetC
+[2019.06.18-21.28.01:527][419]LogActorFactory: Actor Factory created SM_MagnetC
+[2019.06.18-21.28.07:302][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.28.07:405][768]LogStaticMesh: Building static mesh SM_MagnetD...
+[2019.06.18-21.28.07:421][768]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/Whiteboard/SM_MagnetD.SM_MagnetD
+[2019.06.18-21.28.07:556][775]LogActorFactory: Actor Factory created SM_MagnetD
+[2019.06.18-21.28.08:930][857]LogActorFactory: Actor Factory created SM_MagnetD
+[2019.06.18-21.28.14:481][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.28.14:651][197]LogStaticMesh: Building static mesh SM_MagnetB...
+[2019.06.18-21.28.14:674][197]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/Whiteboard/SM_MagnetB.SM_MagnetB
+[2019.06.18-21.28.14:765][201]LogActorFactory: Actor Factory created SM_MagnetB
+[2019.06.18-21.28.16:188][286]LogActorFactory: Actor Factory created SM_MagnetB
+[2019.06.18-21.28.31:614][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.28.31:793][214]LogActorFactory: Actor Factory created SM_MagnetA
+[2019.06.18-21.28.32:053][229]LogActorFactory: Actor Factory created SM_MagnetA
+[2019.06.18-21.28.40:795][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.28.41:306][777]LogActorFactory: Actor Factory created SM_MagnetC
+[2019.06.18-21.28.42:970][876]LogActorFactory: Actor Factory created SM_MagnetC
+[2019.06.18-21.28.49:699][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.28.49:872][283]LogActorFactory: Actor Factory created SM_MagnetD
+[2019.06.18-21.28.50:930][346]LogActorFactory: Actor Factory created SM_MagnetD
+[2019.06.18-21.28.55:554][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.28.55:780][633]LogActorFactory: Actor Factory created SM_MagnetA
+[2019.06.18-21.28.57:221][719]LogActorFactory: Actor Factory created SM_MagnetA
+[2019.06.18-21.29.13:458][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Whiteboard2)
+[2019.06.18-21.29.15:170][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Salao_princ)
+[2019.06.18-21.29.15:628][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-21.29.21:428][153]LogEditorViewport: Clicking Background
+[2019.06.18-21.29.40:721][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-21.29.46:170][624]Cmd: EDIT COPY
+[2019.06.18-21.29.49:249][807]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Whiteboard)
+[2019.06.18-21.29.49:275][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-21.29.58:800][378]Cmd: EDIT PASTE
+[2019.06.18-21.30.04:221][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-21.30.12:598][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.30.39:051][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-21.30.47:592][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.18-21.30.53:037][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.31.01:691][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MagnetB2)
+[2019.06.18-21.31.04:460][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.18-21.31.08:807][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.18-21.31.09:340][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MagnetD3)
+[2019.06.18-21.31.15:866][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Whiteboard3)
+[2019.06.18-21.31.16:591][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Whiteboard3)
+[2019.06.18-21.31.17:023][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Whiteboard3)
+[2019.06.18-21.31.17:604][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MagnetC3)
+[2019.06.18-21.31.22:455][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MagnetA4)
+[2019.06.18-21.31.35:198][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laboratorio_final_corredor)
+[2019.06.18-21.31.35:770][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MagnetD3)
+[2019.06.18-21.31.50:686][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MagnetC3)
+[2019.06.18-21.32.03:066][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MagnetA4)
+[2019.06.18-21.32.12:456][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Sticker3)
+[2019.06.18-21.32.20:872][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Laboratorio_final_corredor)
+[2019.06.18-21.32.21:800][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MagnetB2)
+[2019.06.18-21.32.59:639][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.33.02:486][278]LogAssetEditorManager: Opening Asset editor for Material /Game/Fotos/FOTO_Mat.FOTO_Mat
+[2019.06.18-21.33.02:489][278]LogMaterial: Display: Missing cached shader map for material FOTO_Mat, compiling. 
+[2019.06.18-21.33.02:588][278]LogMaterial: Display: Missing cached shader map for material FOTO_Mat, compiling. 
+[2019.06.18-21.33.02:602][278]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.33.02:606][278]LogMaterial: Display: Missing cached shader map for material FOTO_Mat, compiling. 
+[2019.06.18-21.33.02:660][278]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.18-21.33.03:286][304]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.33.04:316][355]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.33.06:017][436]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.33.06:017][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.33.06:017][436]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.06.18-21.33.06:017][436]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.18-21.33.06:017][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.18-21.33.06:017][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.18-21.33.25:536][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.33.30:450][896]LogSlate: Window 'My Blueprint' being destroyed
+[2019.06.18-21.33.30:454][896]LogSlate: Window 'My Blueprint' being destroyed
+[2019.06.18-21.33.30:455][896]LogSlate: Window 'Weapon_Base' being destroyed
+[2019.06.18-21.33.33:000][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.34.19:640][462]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.06.18-21.34.20:196][462]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_Auto59574445643022073B5B2E5B6BD5AAF5A.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Banheiro_Auto5.umap'
+[2019.06.18-21.34.20:200][462]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GoldenMap/Banheiro' took 0.601
+[2019.06.18-21.34.20:200][462]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.601
+[2019.06.18-21.34.20:203][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10] ([1] browsable assets)...
+[2019.06.18-21.34.20:209][462]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10.WhatsApp_Image_2017-10-03_at_16_45_10]
+[2019.06.18-21.34.20:210][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10]
+[2019.06.18-21.34.20:223][462]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/WhatsApp_Image_2017-10-03_at_16_47D91AE8451ADCC2A0260AA08CED8446.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10_Auto5.uasset'
+[2019.06.18-21.34.20:227][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10_Mat] ([1] browsable assets)...
+[2019.06.18-21.34.20:243][462]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10_Mat.WhatsApp_Image_2017-10-03_at_16_45_10_Mat]
+[2019.06.18-21.34.20:243][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10_Mat]
+[2019.06.18-21.34.20:258][462]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/WhatsApp_Image_2017-10-03_at_16_06CF45B341EE098BB029A088522089F3.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10_Mat_Auto5.uasset'
+[2019.06.18-21.34.20:261][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fotos/FOTO] ([1] browsable assets)...
+[2019.06.18-21.34.20:269][462]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fotos/FOTO.FOTO]
+[2019.06.18-21.34.20:269][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fotos/FOTO]
+[2019.06.18-21.34.20:269][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fotos/FOTO" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/FOTO_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.06.18-21.34.20:283][462]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/FOTO_Auto533DD45DC4DFF353F763B7BB06E2713EF.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/FOTO_Auto5.uasset'
+[2019.06.18-21.34.20:286][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fotos/FOTO_Mat] ([1] browsable assets)...
+[2019.06.18-21.34.20:300][462]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fotos/FOTO_Mat.FOTO_Mat]
+[2019.06.18-21.34.20:300][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fotos/FOTO_Mat]
+[2019.06.18-21.34.20:300][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fotos/FOTO_Mat" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/FOTO_Mat_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.06.18-21.34.20:315][462]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/FOTO_Mat_Auto5016110084303B9F4FA9795B4A0182B3D.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/FOTO_Mat_Auto5.uasset'
+[2019.06.18-21.34.20:317][462]LogFileHelpers: Auto-saving content packages took 0.115
+[2019.06.18-21.35.22:608][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.35.27:728][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-21.35.27:736][774]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/JPFN/Desktop/james_bonds.jpg)
+[2019.06.18-21.35.27:747][774]LogTexture: Display: Building textures: james_bonds (BGRA8, 190X265)
+[2019.06.18-21.35.30:649][944]LogMaterial: Display: Missing cached shader map for material james_bonds_Mat, compiling. 
+[2019.06.18-21.38.09:207][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.39.12:895][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.41.10:583][617]LogTexture: Display: Building textures: House_exterior_mask (AutoDXT, 2048X2048)
+[2019.06.18-21.41.10:583][617]LogTexture: Display: Building textures: DiningTable_d (AutoDXT, 2048X2048)
+[2019.06.18-21.41.10:583][617]LogTexture: Display: Building textures: DiningTable_n (BC5, 2048X2048)
+[2019.06.18-21.41.10:583][617]LogTexture: Display: Building textures: House_exterior_d (AutoDXT, 4096X4096)
+[2019.06.18-21.41.10:583][617]LogTexture: Display: Building textures: House_exterior_r_ao_m (AutoDXT, 4096X4096)
+[2019.06.18-21.41.10:583][617]LogTexture: Display: Building textures: DiningTable_mask (AutoDXT, 1024X1024)
+[2019.06.18-21.41.10:583][617]LogTexture: Display: Building textures: House_exterior_n (BC5, 4096X4096)
+[2019.06.18-21.41.10:583][617]LogTexture: Display: Building textures: DiningTable_r_ao_m (AutoDXT, 2048X2048)
+[2019.06.18-21.41.10:583][617]LogMaterial: Display: Missing cached shader map for material Mat_Opaque_colorMask, compiling. 
+[2019.06.18-21.41.10:636][617]LogStaticMesh: Building static mesh SM_DiningTable...
+[2019.06.18-21.41.10:649][617]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_DiningTable.SM_DiningTable
+[2019.06.18-21.41.10:680][617]LogActorFactory: Actor Factory created SM_DiningTable
+[2019.06.18-21.41.13:448][745]LogActorFactory: Actor Factory created SM_DiningTable
+[2019.06.18-21.41.29:114][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.41.29:230][663]LogStaticMesh: Building static mesh SM_CoffeeMachine...
+[2019.06.18-21.41.29:252][663]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/SM_CoffeeMachine.SM_CoffeeMachine
+[2019.06.18-21.41.32:108][663]LogTexture: Display: Building textures: KitchenDevices02_n (BC5, 2048X2048)
+[2019.06.18-21.41.32:109][663]LogTexture: Display: Building textures: KitchenDevices02_d (AutoDXT, 2048X2048)
+[2019.06.18-21.41.32:109][663]LogTexture: Display: Building textures: KitchenDevices02_r_ao_m (AutoDXT, 2048X2048)
+[2019.06.18-21.41.32:134][663]LogActorFactory: Actor Factory created SM_CoffeeMachine
+[2019.06.18-21.41.34:246][785]LogActorFactory: Actor Factory created SM_CoffeeMachine
+[2019.06.18-21.41.46:565][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.41.47:757][525]LogTexture: Display: Building textures: Gadgets_e (AutoDXT, 2048X2048)
+[2019.06.18-21.41.47:757][525]LogTexture: Display: Building textures: Gadgets_n (BC5, 2048X2048)
+[2019.06.18-21.41.47:757][525]LogTexture: Display: Building textures: Gadgets_d (AutoDXT, 2048X2048)
+[2019.06.18-21.41.47:757][525]LogTexture: Display: Building textures: Gadgets_r_ao_m (AutoDXT, 2048X2048)
+[2019.06.18-21.41.47:757][525]LogStaticMesh: Building static mesh SM_LaptopOpen...
+[2019.06.18-21.41.47:770][525]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_LaptopOpen.SM_LaptopOpen
+[2019.06.18-21.41.47:784][525]LogActorFactory: Actor Factory created SM_LaptopOpen
+[2019.06.18-21.41.48:654][576]LogActorFactory: Actor Factory created SM_LaptopOpen
+[2019.06.18-21.42.03:042][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.42.03:129][435]LogStaticMesh: Building static mesh SM_MobilePhone...
+[2019.06.18-21.42.03:144][435]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/SM_MobilePhone.SM_MobilePhone
+[2019.06.18-21.42.03:230][439]LogActorFactory: Actor Factory created SM_MobilePhone
+[2019.06.18-21.42.04:373][507]LogActorFactory: Actor Factory created SM_MobilePhone
+[2019.06.18-21.42.14:886][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.42.16:826][140]LogTexture: Display: Building textures: ChairLeather_mask (AutoDXT, 1024X1024)
+[2019.06.18-21.42.16:826][140]LogTexture: Display: Building textures: ChairLeather_d (AutoDXT, 2048X2048)
+[2019.06.18-21.42.16:826][140]LogTexture: Display: Building textures: ChairLeather_r_ao_m (AutoDXT, 2048X2048)
+[2019.06.18-21.42.16:826][140]LogTexture: Display: Building textures: ChairLeather_n (BC5, 2048X2048)
+[2019.06.18-21.42.16:826][140]LogStaticMesh: Building static mesh SM_ChairLeather...
+[2019.06.18-21.42.16:888][140]LogStaticMesh: Built static mesh [0.06s] /Game/HQ_ResidentialHouse/Meshes/SM_ChairLeather.SM_ChairLeather
+[2019.06.18-21.42.16:912][140]LogActorFactory: Actor Factory created SM_ChairLeather
+[2019.06.18-21.42.17:965][203]LogActorFactory: Actor Factory created SM_ChairLeather
+[2019.06.18-21.42.48:877][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.43.03:008][866]LogTexture: Display: Building textures: Kitchenware2_d (AutoDXT, 1024X1024)
+[2019.06.18-21.43.03:008][866]LogTexture: Display: Building textures: Kitchenware2_r_ao_m (AutoDXT, 1024X1024)
+[2019.06.18-21.43.03:008][866]LogTexture: Display: Building textures: Kitchenware2_n (BC5, 1024X1024)
+[2019.06.18-21.43.03:008][866]LogStaticMesh: Building static mesh SM_CupA...
+[2019.06.18-21.43.03:022][866]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/KitchenWare/SM_CupA.SM_CupA
+[2019.06.18-21.43.03:045][866]LogActorFactory: Actor Factory created SM_CupA
+[2019.06.18-21.43.05:930][ 38]LogActorFactory: Actor Factory created SM_CupA
+[2019.06.18-21.43.13:255][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.43.13:907][482]LogTexture: Display: Building textures: Kitchenware_n (BC5, 1024X1024)
+[2019.06.18-21.43.13:907][482]LogTexture: Display: Building textures: Kitchenware_d (AutoDXT, 1024X1024)
+[2019.06.18-21.43.13:907][482]LogTexture: Display: Building textures: Kitchenware_r_ao_m (AutoDXT, 1024X1024)
+[2019.06.18-21.43.13:907][482]LogStaticMesh: Building static mesh SM_Spoon...
+[2019.06.18-21.43.13:917][482]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/KitchenWare/SM_Spoon.SM_Spoon
+[2019.06.18-21.43.13:930][482]LogActorFactory: Actor Factory created SM_Spoon
+[2019.06.18-21.43.18:502][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-21.43.21:724][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.43.21:877][958]LogStaticMesh: Building static mesh SM_CuttingBoard_stand...
+[2019.06.18-21.43.21:888][958]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/KitchenWare/SM_CuttingBoard_stand.SM_CuttingBoard_stand
+[2019.06.18-21.43.21:971][962]LogActorFactory: Actor Factory created SM_CuttingBoard_stand
+[2019.06.18-21.43.23:063][ 27]LogActorFactory: Actor Factory created SM_CuttingBoard_stand
+[2019.06.18-21.43.24:503][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-21.43.30:867][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.43.30:937][496]LogStaticMesh: Building static mesh SM_PlateE...
+[2019.06.18-21.43.30:952][496]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/KitchenWare/SM_PlateE.SM_PlateE
+[2019.06.18-21.43.31:066][502]LogActorFactory: Actor Factory created SM_PlateE
+[2019.06.18-21.43.33:743][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-21.43.34:662][717]LogStaticMesh: Building static mesh SM_CupB...
+[2019.06.18-21.43.34:676][717]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/KitchenWare/SM_CupB.SM_CupB
+[2019.06.18-21.43.34:779][722]LogActorFactory: Actor Factory created SM_CupB
+[2019.06.18-21.43.37:714][897]LogActorFactory: Actor Factory created SM_CupB
+[2019.06.18-21.43.48:113][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.43.59:052][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.44.37:177][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.44.38:853][449]LogTexture: Display: Building textures: DeskWare_d (AutoDXT, 2048X2048)
+[2019.06.18-21.44.38:853][449]LogTexture: Display: Building textures: DeskWare_r_ao_m (AutoDXT, 2048X2048)
+[2019.06.18-21.44.38:853][449]LogTexture: Display: Building textures: DeskWare_n (BC5, 2048X2048)
+[2019.06.18-21.44.38:853][449]LogStaticMesh: Building static mesh SM_NotebookStack_big...
+[2019.06.18-21.44.38:865][449]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_NotebookStack_big.SM_NotebookStack_big
+[2019.06.18-21.44.38:886][449]LogActorFactory: Actor Factory created SM_NotebookStack_big
+[2019.06.18-21.44.40:149][524]LogActorFactory: Actor Factory created SM_NotebookStack_big
+[2019.06.18-21.44.41:326][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.44.41:413][597]LogStaticMesh: Building static mesh SM_PencilCase_filled...
+[2019.06.18-21.44.41:426][597]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/Deskware/SM_PencilCase_filled.SM_PencilCase_filled
+[2019.06.18-21.44.41:605][607]LogActorFactory: Actor Factory created SM_PencilCase_filled
+[2019.06.18-21.44.42:597][666]LogActorFactory: Actor Factory created SM_PencilCase_filled
+[2019.06.18-21.44.57:056][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ChairLeather)
+[2019.06.18-21.45.20:828][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.45.50:119][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.45.52:553][848]LogTexture: Display: Building textures: GarageBox_mask (AutoDXT, 512X512)
+[2019.06.18-21.45.52:553][848]LogStaticMesh: Building static mesh SM_GarageBox...
+[2019.06.18-21.45.52:572][848]LogStaticMesh: Built static mesh [0.02s] /Game/HQ_ResidentialHouse/Meshes/GarageBoxes/SM_GarageBox.SM_GarageBox
+[2019.06.18-21.45.53:001][848]LogTexture: Display: Building textures: GarageBox_d (AutoDXT, 1024X1024)
+[2019.06.18-21.45.53:001][848]LogTexture: Display: Building textures: GarageBox_r_ao_m (AutoDXT, 1024X1024)
+[2019.06.18-21.45.53:001][848]LogTexture: Display: Building textures: GarageBox_n (BC5, 1024X1024)
+[2019.06.18-21.45.53:007][848]LogActorFactory: Actor Factory created SM_GarageBox
+[2019.06.18-21.45.54:772][953]LogActorFactory: Actor Factory created SM_GarageBox
+[2019.06.18-21.46.15:343][183]Cmd: TRANSACTION UNDO
+[2019.06.18-21.46.15:343][183]LogEditorTransaction: Undo Move Actors
+[2019.06.18-21.46.15:820][211]Cmd: TRANSACTION UNDO
+[2019.06.18-21.46.15:820][211]LogEditorTransaction: Undo Move Actors
+[2019.06.18-21.46.16:262][237]Cmd: TRANSACTION UNDO
+[2019.06.18-21.46.16:262][237]LogEditorTransaction: Undo Create Actors
+[2019.06.18-21.46.24:211][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.46.24:485][725]LogActorFactory: Actor Factory created SM_GarageBox
+[2019.06.18-21.46.26:077][820]LogActorFactory: Actor Factory created SM_GarageBox
+[2019.06.18-21.46.27:206][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.46.27:462][901]LogActorFactory: Actor Factory created SM_GarageBox
+[2019.06.18-21.46.35:773][399]LogActorFactory: Actor Factory created SM_GarageBox
+[2019.06.18-21.46.52:913][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GarageBox)
+[2019.06.18-21.47.11:541][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.47.11:783][546]LogActorFactory: Actor Factory created SM_GarageBox
+[2019.06.18-21.47.15:058][742]LogActorFactory: Actor Factory created SM_GarageBox
+[2019.06.18-21.47.37:073][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.47.55:193][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.48.20:874][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.48.33:118][274]LogTexture: Display: Building textures: Lamps_e (AutoDXT, 1024X1024)
+[2019.06.18-21.48.33:118][274]LogTexture: Display: Building textures: Lamps_d (AutoDXT, 2048X2048)
+[2019.06.18-21.48.33:118][274]LogTexture: Display: Building textures: Lamps_r_ao_m (AutoDXT, 2048X2048)
+[2019.06.18-21.48.33:118][274]LogTexture: Display: Building textures: Lamps_n (BC5, 2048X2048)
+[2019.06.18-21.48.33:118][274]LogStaticMesh: Building static mesh SM_LampWall...
+[2019.06.18-21.48.33:131][274]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_LampWall.SM_LampWall
+[2019.06.18-21.48.34:795][372]LogStaticMesh: Building static mesh SM_Picture_big...
+[2019.06.18-21.48.34:806][372]LogStaticMesh: Built static mesh [0.01s] /Game/HQ_ResidentialHouse/Meshes/SM_Picture_big.SM_Picture_big
+[2019.06.18-21.48.37:015][372]LogTexture: Display: Building textures: Pictures_r_ao_m (AutoDXT, 2048X2048)
+[2019.06.18-21.48.37:015][372]LogTexture: Display: Building textures: Pictures_n (BC5, 2048X2048)
+[2019.06.18-21.48.37:015][372]LogTexture: Display: Building textures: Pictures01_d (AutoDXT, 2048X2048)
+[2019.06.18-21.48.37:023][372]LogActorFactory: Actor Factory created SM_Picture_big
+[2019.06.18-21.48.38:878][482]LogActorFactory: Actor Factory created SM_Picture_big
+[2019.06.18-21.48.40:982][605]Cmd: SELECT NONE
+[2019.06.18-21.48.41:899][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Picture_big)
+[2019.06.18-21.48.43:204][736]Cmd: DELETE
+[2019.06.18-21.48.43:204][736]Cmd: ACTOR DELETE
+[2019.06.18-21.48.43:212][736]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-21.48.43:251][736]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.06.18-21.48.43:252][736]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.06.18-21.48.52:142][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.49.31:571][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StaticMesh5)
+[2019.06.18-21.49.35:748][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-21.49.36:025][893]LogAssetEditorManager: Opening Asset editor for Material /Game/GoldenMap/Meshes/Banheiro/Pia/Metal.Metal
+[2019.06.18-21.49.36:029][893]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.36:134][893]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.36:156][893]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.36:178][893]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.49.36:207][893]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.18-21.49.37:570][950]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.49.39:033][ 15]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.49.40:490][ 80]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.49.40:490][ 80]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.06.18-21.49.40:490][ 80]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.49.40:490][ 80]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.49.40:490][ 80]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.49.41:595][143]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.41:617][143]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.41:657][144]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.49.42:269][175]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.49.43:843][250]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.49.45:452][329]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.49.45:452][329]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.06.18-21.49.45:452][329]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.49.45:452][329]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.49.45:452][329]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.49.47:417][446]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.47:438][446]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.47:474][447]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.49.48:215][484]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.49.49:635][551]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.49.51:108][616]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.51:129][616]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.49.51:134][616]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.51:154][616]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.49.52:063][660]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.49.52:518][678]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.52:544][678]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.49.52:550][678]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.52:645][681]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.49.53:425][719]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.49.54:956][792]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.49.56:529][871]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.49.56:529][871]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.06.18-21.49.56:529][871]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.49.56:529][871]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.49.56:529][871]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.49.58:752][  1]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.58:775][  1]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.49.58:811][  2]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.49.59:694][ 44]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.50.01:030][107]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.50.02:704][186]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.50.02:704][186]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.06.18-21.50.02:704][186]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.50.02:704][186]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.50.02:704][186]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.50.08:454][529]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.50.08:476][529]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.50.08:500][529]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.50.09:092][558]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.50.10:744][633]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.50.12:394][709]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.50.12:394][709]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.06.18-21.50.12:394][709]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.50.12:394][709]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.50.12:394][709]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.50.25:226][475]LogMaterialEditor: Saving and Compiling material Metal
+[2019.06.18-21.50.25:692][475]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.50.25:772][475]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.50.25:787][475]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.50.25:823][475]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.50.25:895][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.06.18-21.50.25:907][475]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-21.50.28:548][475]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.18-21.50.28:548][475]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.18-21.50.28:550][475]TextureStreamingBuild: Display: Compiling optional shaders took 2.654 seconds.
+[2019.06.18-21.50.28:585][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.06.18-21.50.31:724][475]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Metal595F53A640849B5AEE0BD6B883491626.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Meshes/Banheiro/Pia/Metal.uasset'
+[2019.06.18-21.50.39:073][911]LogSlate: Window 'Metal' being destroyed
+[2019.06.18-21.50.39:081][911]LogSlate: Window 'Metal' being destroyed
+[2019.06.18-21.50.55:098][864]LogContentBrowser: Verbose: The majority of assets in the view are of type: Material
+[2019.06.18-21.51.00:662][197]LogAssetEditorManager: Opening Asset editor for Material /Game/GoldenMap/Meshes/Banheiro/Pia/Metal.Metal
+[2019.06.18-21.51.00:665][197]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.18-21.51.00:769][197]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.18-21.51.00:791][197]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.18-21.51.00:828][197]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.51.00:844][197]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.18-21.51.01:965][246]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.51.03:475][311]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.51.06:225][436]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.18-21.51.06:244][436]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.51.06:248][436]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.18-21.51.06:556][449]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.51.07:170][480]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.51.08:503][545]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.51.10:334][633]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.51.10:334][633]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.06.18-21.51.10:334][633]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.51.10:334][633]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.51.10:334][633]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.51.17:731][ 74]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.18-21.51.17:755][ 74]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.51.17:759][ 74]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.18-21.51.18:492][108]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.51.19:964][172]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.51.21:682][247]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.51.21:683][247]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.06.18-21.51.21:683][247]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.51.21:683][247]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.51.21:683][247]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.51.23:630][363]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.18-21.51.23:653][363]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.51.23:653][363]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.18-21.51.24:501][401]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.51.25:396][439]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.619 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-21.51.27:101][514]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.51.29:115][599]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.51.29:115][599]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.06.18-21.51.29:115][599]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.51.29:115][599]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.51.29:115][599]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.51.33:692][870]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.18-21.51.33:719][870]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.51.33:719][870]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.18-21.51.34:455][903]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.51.36:005][969]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.51.37:726][ 38]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.51.37:727][ 38]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.06.18-21.51.37:727][ 38]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.51.37:727][ 38]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.51.37:727][ 38]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.51.40:294][189]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.18-21.51.40:317][189]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.18-21.51.40:334][189]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.51.40:347][189]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.18-21.51.41:080][225]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.51.41:916][260]LogMaterialEditor: Saving and Compiling material Metal
+[2019.06.18-21.51.42:564][260]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.51.42:588][260]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.06.18-21.51.42:722][260]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.51.42:766][260]LogMaterial: Display: Missing cached shader map for material Metal, compiling. 
+[2019.06.18-21.51.42:859][260]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.06.18-21.51.42:873][260]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-21.51.45:778][260]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.18-21.51.45:778][260]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.18-21.51.45:778][260]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.18-21.51.45:783][260]TextureStreamingBuild: Display: Compiling optional shaders took 2.924 seconds.
+[2019.06.18-21.51.45:819][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.06.18-21.51.48:970][260]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Metal068A82DE4AE2DD0FC923B19FA3EA8DA5.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Meshes/Banheiro/Pia/Metal.uasset'
+[2019.06.18-21.51.48:994][260]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.06.18-21.51.48:994][260]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2019.06.18-21.51.48:994][260]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.06.18-21.51.48:994][260]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.51.48:994][260]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.51.51:296][396]LogSlate: Window 'Metal' being destroyed
+[2019.06.18-21.51.56:832][718]MapCheck: New page: Map Check
+[2019.06.18-21.51.56:850][718]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.18-21.51.56:854][718]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.18-21.51.56:988][718]LightingResults: New page: Lighting Build - Jun 18, 2019, 3:51:56 PM
+[2019.06.18-21.51.56:995][718]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.18-21.51.56:999][718]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.18-21.51.56:999][718]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.18-21.51.57:000][718]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.18-21.51.57:001][718]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8760
+[2019.06.18-21.52.01:526][718]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.18-21.52.01:528][718]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.18-21.52.01:528][718]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.18-21.52.01:528][718]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.18-21.52.01:528][718]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.18-21.52.01:528][718]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.18-21.52.01:927][718]LogEditorBuildUtils: Build time 0:05
+[2019.06.18-21.52.01:950][718]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2019.06.18-21.52.01:968][718]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Metal, compiling. 
+[2019.06.18-21.52.02:042][719]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_Clock, compiling. 
+[2019.06.18-21.52.02:051][719]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_Clock, compiling. 
+[2019.06.18-21.52.02:064][719]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_Clock, compiling. 
+[2019.06.18-21.52.02:107][720]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_Clock_glass, compiling. 
+[2019.06.18-21.52.02:118][720]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_Clock_glass, compiling. 
+[2019.06.18-21.52.02:189][722]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WhatsApp_Image_2017-10-03_at_16_45_10_Mat, compiling. 
+[2019.06.18-21.52.02:201][722]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WhatsApp_Image_2017-10-03_at_16_45_10_Mat, compiling. 
+[2019.06.18-21.52.02:236][723]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FOTO_Mat, compiling. 
+[2019.06.18-21.52.02:252][723]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer FOTO_Mat, compiling. 
+[2019.06.18-21.52.02:290][724]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer james_bonds_Mat, compiling. 
+[2019.06.18-21.52.02:305][724]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer james_bonds_Mat, compiling. 
+[2019.06.18-21.52.02:336][725]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_DiningTable, compiling. 
+[2019.06.18-21.52.02:351][725]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Mat_DiningTable, compiling. 
+[2019.06.18-21.52.05:493][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.06.18-21.52.09:752][966]LogAssetEditorManager: Opening Asset editor for Material /Game/GoldenMap/Meshes/Banheiro/Pia/_Default_Material._Default_Material
+[2019.06.18-21.52.09:757][966]LogMaterial: Display: Missing cached shader map for material _Default_Material, compiling. 
+[2019.06.18-21.52.09:909][966]LogMaterial: Display: Missing cached shader map for material _Default_Material, compiling. 
+[2019.06.18-21.52.09:939][966]LogMaterial: Display: Missing cached shader map for material _Default_Material, compiling. 
+[2019.06.18-21.52.09:974][966]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.52.10:003][966]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.18-21.52.11:340][ 17]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.52.13:636][114]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.52.14:426][144]LogMaterial: Display: Missing cached shader map for material _Default_Material, compiling. 
+[2019.06.18-21.52.14:455][144]LogMaterial: Display: Missing cached shader map for material _Default_Material, compiling. 
+[2019.06.18-21.52.14:906][160]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.52.16:028][209]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.18-21.52.18:131][304]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.18-21.52.18:905][334]LogMaterialEditor: Saving and Compiling material _Default_Material
+[2019.06.18-21.52.19:596][334]LogMaterial: Display: Missing cached shader map for material _Default_Material, compiling. 
+[2019.06.18-21.52.19:732][334]LogMaterial: Display: Missing cached shader map for material _Default_Material, compiling. 
+[2019.06.18-21.52.19:760][334]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.18-21.52.19:764][334]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.18-21.52.19:772][334]LogMaterial: Display: Missing cached shader map for material _Default_Material, compiling. 
+[2019.06.18-21.52.19:847][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.06.18-21.52.19:861][334]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.06.18-21.52.23:757][334]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.18-21.52.23:757][334]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.18-21.52.23:757][334]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.18-21.52.23:765][334]TextureStreamingBuild: Display: Compiling optional shaders took 3.918 seconds.
+[2019.06.18-21.52.23:812][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.06.18-21.52.28:303][334]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/_Default_MaterialDB0EA9EA49ABAD499FBF17BDF2F0D868.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Content/GoldenMap/Meshes/Banheiro/Pia/_Default_Material.uasset'
+[2019.06.18-21.52.28:326][334]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.06.18-21.52.28:326][334]MaterialEditorStats: Base pass shader with Surface Lightmap: 137 instructions
+[2019.06.18-21.52.28:326][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.06.18-21.52.28:327][334]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.06.18-21.52.28:327][334]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.18-21.52.29:653][390]LogSlate: Window '_Default_Material' being destroyed
+[2019.06.18-21.52.31:451][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.06.18-21.52.32:301][473]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_Auto663646FC94CEA00334BFD19B2DCC8D926.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Banheiro_Auto6.umap'
+[2019.06.18-21.52.32:306][473]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GoldenMap/Banheiro' took 0.896
+[2019.06.18-21.52.32:306][473]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.896
+[2019.06.18-21.52.32:308][473]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fotos/james_bonds] ([1] browsable assets)...
+[2019.06.18-21.52.32:317][473]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fotos/james_bonds.james_bonds]
+[2019.06.18-21.52.32:317][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fotos/james_bonds]
+[2019.06.18-21.52.32:329][473]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/james_bonds_Auto681C6DA0541943DB498B24B8940B3C0E8.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/james_bonds_Auto6.uasset'
+[2019.06.18-21.52.32:332][473]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fotos/james_bonds_Mat] ([1] browsable assets)...
+[2019.06.18-21.52.32:351][473]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fotos/james_bonds_Mat.james_bonds_Mat]
+[2019.06.18-21.52.32:351][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fotos/james_bonds_Mat]
+[2019.06.18-21.52.32:369][473]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/james_bonds_Mat_Auto66786F7264D4128C58EA871BE08F79F97.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/james_bonds_Mat_Auto6.uasset'
+[2019.06.18-21.52.32:373][473]LogFileHelpers: Auto-saving content packages took 0.065
+[2019.06.18-21.53.19:668][117]LightingResults: Warning: Tub_Completa Object has overlapping UVs.
+[2019.06.18-21.53.19:668][117]LightingResults: Tub_Completa Lightmap UV are overlapping by 5.1%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.18-21.54.01:095][240]Job is a success!
+[2019.06.18-21.54.01:624][241]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.020s
+[2019.06.18-21.54.01:624][241]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.18-21.54.01:624][241]LogVolumetricLightmapImport:      BrickData 520x5x5 = 0.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.06.18-21.54.01:624][241]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.18-21.54.01:624][241]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2019.06.18-21.54.01:624][241]LogVolumetricLightmapImport:          1: 3.8% covering 6.3% of volume
+[2019.06.18-21.54.01:624][241]LogVolumetricLightmapImport:          2: 95.2% covering 2.4% of volume
+[2019.06.18-21.54.07:613][241]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:613][241]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:614][241]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 1024X512)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 1024X1024)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 1024X1024)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 128X64)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 128X128)
+[2019.06.18-21.54.07:615][241]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 128X128)
+[2019.06.18-21.54.07:638][241]Lightmass on TITANIUM: 2:01 min total, 323 ms importing, 229 ms setup, 20.5 sec photons, 1:40 min processing, 0 ms extra exporting [255/255 mappings]. Threads: 11:39 min total, 8:35 min processing.
+[2019.06.18-21.54.07:641][241]LogStaticLightingSystem: Banheiro_BuiltData storing lightmap data for 233 meshes in 17 LightmapResourceClusters (13.7 Meshes per cluster).
+[2019.06.18-21.54.07:647][241]LogMaterial: Warning: Material /Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10_Mat.WhatsApp_Image_2017-10-03_at_16_45_10_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.06.18-21.54.07:663][241]LogMaterial: Display: Missing cached shader map for material WhatsApp_Image_2017-10-03_at_16_45_10_Mat, compiling. 
+[2019.06.18-21.54.07:683][241]LogMaterial: Warning: Material /Game/Fotos/FOTO_Mat.FOTO_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.06.18-21.54.07:686][241]LogMaterial: Display: Missing cached shader map for material FOTO_Mat, compiling. 
+[2019.06.18-21.54.07:707][241]LogMaterial: Warning: Material /Game/Fotos/james_bonds_Mat.james_bonds_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.06.18-21.54.07:712][241]LogMaterial: Display: Missing cached shader map for material james_bonds_Mat, compiling. 
+[2019.06.18-21.54.07:795][241]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.06.18-21.54.07:804][241]LogStaticLightingSystem: Illumination: 2:10 min (5.46 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.06.18-21.54.07:804][241]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 34 textures
+[2019.06.18-21.54.07:804][241]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.06.18-21.54.08:653][241]DumpUnbuiltLightIteractions
+[2019.06.18-21.54.08:653][241]Lights with unbuilt interactions: 0
+[2019.06.18-21.54.08:653][241]
+[2019.06.18-21.54.08:653][241]Primitives with unbuilt interactions: 0
+[2019.06.18-21.54.17:362][242]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.18-21.54.17:363][242]MapCheck: New page: Banheiro - Jun 18, 2019, 3:54:17 PM
+[2019.06.18-21.54.17:364][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.441ms to complete.
+[2019.06.18-22.18.03:672][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:672][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:672][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:672][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:672][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:672][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:672][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.03:673][826]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-22.18.15:237][850]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2019.06.18-22.18.16:911][850]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Banheiro_Auto78BC5323F4E5A6333D6BE7CB37B06FDE7.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/GoldenMap/Banheiro_Auto7.umap'
+[2019.06.18-22.18.16:924][850]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GoldenMap/Banheiro' took 1.784
+[2019.06.18-22.18.16:925][850]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.784
+[2019.06.18-22.18.16:952][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10_Mat] ([1] browsable assets)...
+[2019.06.18-22.18.16:952][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10_Mat]
+[2019.06.18-22.18.16:963][850]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/WhatsApp_Image_2017-10-03_at_16_A3113030488FA699A50D9AACFB13A630.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/WhatsApp_Image_2017-10-03_at_16_45_10_Mat_Auto7.uasset'
+[2019.06.18-22.18.16:969][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fotos/FOTO_Mat] ([1] browsable assets)...
+[2019.06.18-22.18.16:970][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fotos/FOTO_Mat]
+[2019.06.18-22.18.16:971][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fotos/FOTO_Mat" FILE="../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/FOTO_Mat_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2019.06.18-22.18.16:985][850]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/FOTO_Mat_Auto7EBC9BB8F4C25CCA15A5CD6B62815A5AF.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/FOTO_Mat_Auto7.uasset'
+[2019.06.18-22.18.16:997][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fotos/james_bonds_Mat] ([1] browsable assets)...
+[2019.06.18-22.18.16:997][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fotos/james_bonds_Mat]
+[2019.06.18-22.18.17:019][850]LogSavePackage: Moving '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/james_bonds_Mat_Auto7F598033B430EC702F95CF2A3C5FCF9A2.tmp' to '../../../../../../Users/JPFN/Documents/Unreal Projects/GoldenEye/Saved/Autosaves/Game/Fotos/james_bonds_Mat_Auto7.uasset'
+[2019.06.18-22.18.17:028][850]LogFileHelpers: Auto-saving content packages took 0.080
